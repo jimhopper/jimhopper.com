@@ -1,0 +1,54 @@
+{% if site[page.topic]  %}
+
+<div class="sidebar">
+  <div class="sidebar__inner">
+    <p class="sidebar__header">in this topic</p>
+      <ul class="sidebar__items">
+        {% assign sorted = site[page.topic] | sort: 'order' %}
+        {% assign sorted = sorted | where: "published", "true" %}
+        {% for doc in sorted %}
+        {% assign current = nil %}
+          {% if page.url contains doc.url %}
+              {% assign current = 'current' %}
+          {% endif %}
+        <li class="{{current}}"><a href="{{doc.url}}">{{doc.title}}</a>
+          {% if page.url contains doc.subcollection %}
+            <ul class="sidebar__items sub">
+              {% assign sortedInfo = site[doc.subcollection] | sort: 'order' %}
+              {% for doc in sortedInfo %}
+              {% assign current = nil %}
+                {% if page.url contains doc.url %}
+                    {% assign current = 'current' %}
+                {% endif %}
+                <li class="{{current}}"><a href="{{doc.url}}">{{doc.title}}</a></li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+  </div>
+</div>
+{% endif %}
+
+{% if page.custom_sidebar %}
+
+<div class="custom_sidebar">
+  <div class="sidebar__inner editable">
+    <p class="sidebar__header">Kripalu Workshop</p>
+      <p>May 15 - 20, 2016</p>
+      <p>Sunday night - Friday morning</p>
+      <p>Jim Hopper, Ph.D. & David Schouela, RYT-500</p>
+      <p><a href="/services/kripalu">More info</a></p>
+  </div>
+</div>
+{% endif %}
+
+
+{% if page.show_translations %}
+  {% include translations.html %}
+{% endif %}
+
+{% if page.hotlines_sidebar == true %}
+  {% include hotlines.html %}
+{% endif %}

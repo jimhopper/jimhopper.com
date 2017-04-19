@@ -16,6 +16,9 @@ const sourcemaps = require('gulp-sourcemaps');
 const uglify = require('gulp-uglify');
 const when = require('gulp-if');
 
+// Bourbon & Neat
+const neat = require('node-neat');
+
 // 'gulp scripts' -- creates a index.js file from your JavaScript files and
 // creates a Sourcemap for it
 // 'gulp scripts --prod' -- creates a index.js file from your JavaScript files,
@@ -25,6 +28,7 @@ gulp.task('scripts', () =>
   // top to bottom, so you want vendor scripts etc on top
   gulp.src([
     'node_modules/jquery/dist/jquery.js',
+    'node_modules/enquire.js/dist/enquire.js',
     'src/assets/javascript/vendor.js',
     'src/assets/javascript/main.js'
   ])
@@ -43,6 +47,8 @@ gulp.task('scripts', () =>
     // .pipe(when(argv.prod, rev()))
     .pipe(when(!argv.prod, sourcemaps.write('.')))
     .pipe(when(argv.prod, gulp.dest('.tmp/assets/javascript')))
+    // prob not needed as cloudcannon does not use gulp --prod but just jekyll
+    // .pipe(when(argv.prod, gulp.dest('src/assets/javascript'))) // for cloud cannon
     .pipe(when(argv.prod, when('*.js', gzip({append: true}))))
     .pipe(when(argv.prod, size({
       gzip: true,
@@ -61,10 +67,11 @@ gulp.task('styles', () =>
   gulp.src('src/assets/scss/style.scss')
     .pipe(when(!argv.prod, sourcemaps.init()))
     .pipe(sass({
-      precision: 10
+      precision: 10,
+      includePaths: neat.includePaths // for node-neat
     }).on('error', sass.logError))
     .pipe(postcss([
-      autoprefixer({browsers: '> 5%'}) // modify as needed
+      autoprefixer({browsers: 'last 1 version'})
     ]))
     .pipe(size({
       showFiles: true
@@ -78,6 +85,8 @@ gulp.task('styles', () =>
     // .pipe(when(argv.prod, rev()))
     .pipe(when(!argv.prod, sourcemaps.write('.')))
     .pipe(when(argv.prod, gulp.dest('.tmp/assets/stylesheets')))
+    // prob not needed as cloudcannon does not use gulp --prod but just jekyll
+    // .pipe($.if(argv.prod, gulp.dest('src/assets/stylesheets'))) // for cloudcannon
     .pipe(when(argv.prod, when('*.css', gzip({append: true}))))
     .pipe(when(argv.prod, size({
       gzip: true,

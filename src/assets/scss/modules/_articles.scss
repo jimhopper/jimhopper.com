@@ -1,0 +1,322 @@
+body.topic {
+
+  .sub-nav {
+    .container {
+      @include media($m) {
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-left: 1em;
+      }
+      @media only screen and (min-width:769px) and (max-width: 1023px) {
+        padding-left: 1em;
+      }
+      @media only screen and (min-width:1024px) {
+        padding-left: 0;
+      }
+    }
+    @include media($s) {
+      display: none;
+    }
+    @include media($m) {
+      display: block;
+    }
+    @include pad(0 1rem);
+    padding: .2rem 0;
+    p {
+      i {
+        margin-right: .5rem;
+      }
+      font-family: FranklinGothicURW-Dem;
+      color: $text;
+      font-size: 16px;
+      text-transform: uppercase;
+      display: inline-block;
+      margin-bottom: 0;
+      padding-right: .5rem;
+    }
+    p.sub-nav__copy, p.sub-nav__copy a {
+      font-family: FranklinGothicURW-Boo;
+      color: $link-basic;
+      text-transform: none;
+    }
+  }
+
+  .hero {
+    background-repeat: no-repeat;
+    @include media($s) {
+      background-size: auto 100%;
+      background-size: cover;
+    }
+    @include media($m) {
+      background-size: cover;
+    }
+    background-position: top center;
+    border-bottom: 4px solid $yellow-basic;
+    &.page {
+      border-bottom: none;
+    }
+    @include media($s){
+      height: 250px;
+      &.page {
+        height: 150px;
+      }
+    }
+    @include media($m){
+      height: 470px;
+      &.page {
+        height: 150px;
+      }
+    }
+  }
+  .hero .inner-wrapper {
+    @include media($s-up) {
+      @include vertical-align();
+      top: 30%;
+      -webkit-transform: translateY(-30%);
+      -ms-transform: translateY(-30%);
+      transform: translateY(-30%);
+    }
+    @include media($l-up) {
+      @include span-columns(10);
+    }
+    @include vertical-align();
+    .header {
+    font-family: FranklinGothicURW-Dem;
+    color: #fff;
+    font-size: 16px;
+    margin-bottom: .5em;
+    text-transform: uppercase;
+    }
+  }
+  .hero .container {
+    @include media($max-width) {
+      @include pad(1rem);
+    }
+  }
+  &.child-abuse .hero {
+    background-image: url('/assets/images/header-abuse.jpg');
+    @include media($s){
+      background-position: top right;
+    }
+    @include media($m){
+      background-position: 80% 20%;
+    }
+  }
+  &.info .hero {
+    background-image: url('/assets/images/header-abuse.jpg');
+  }
+  &.healing-and-happiness .hero {
+    background-image: url('/assets/images/header-happiness.jpg');
+    @include media($s){
+      background-position: center center;
+    }
+  }
+  &.mindfulness-and-meditation .hero {
+    background-image: url('/assets/images/header-meditation.jpg');
+    @include media($s){
+      background-position: top right;
+    }
+    @include media($m){
+      background-position: top right;
+    }
+  }
+  &.the-brain .hero {
+    background-image: url('/assets/images/header-brain.jpg');
+    @include media($m){
+      background-position: center center;
+    }
+  }
+  &.sexual-assault .hero {
+    background-image: url('/assets/images/header-sexual-assault.jpg');
+    @include media($s){
+      background-position: 100% 60%;
+    }
+  }
+  &.about .hero {
+    background-image: url('/assets/images/header-home.jpg');
+  }
+  &.publications .hero {
+    background-image: url('/assets/images/header-home.jpg');
+  }
+  &.services .hero {
+    background-image: url('/assets/images/header-home.jpg');
+  }
+}
+
+p.onpage__header {
+  font-family: FranklinGothicURW-Dem;
+  color: $green-basic;
+  font-size: 16px;
+  margin-bottom: .5em;
+  text-transform: uppercase;
+  padding-left: 1.5rem;
+}
+
+ul.onpage {
+  margin-top: 0px !important;
+  // background-color: $sidebar-bg;
+  @include media($s){
+    @include pad(0 1rem);
+  }
+  @include media($l){
+    @include pad(0 1.5rem 1.5rem);
+  }
+  margin: 0;
+  li {
+    font-family: FranklinGothicURW-Boo;
+    line-height: 1.5;
+    margin: 0 0 0 1rem !important;
+    padding-left: 0;
+    list-style-type: none;
+    @include media($s){
+      font-size: 1rem !important;
+    }
+    @include media($m){
+      font-size: 1rem !important;
+    }
+    a {
+      color: $sidebar-links !important;
+      text-decoration: none !important;
+      border-bottom: 1px solid lighten($sidebar-links, 10%);
+    }
+  }
+}
+
+.article {
+  h2, h3 {
+    @include media($s){
+      margin-top: 1.25em;
+      margin-bottom: .5em;
+      a {
+        color: $green_basic;
+        &:hover {
+          color: $green_basic;
+        }
+      }
+    }
+    // @include media($l){
+    //   margin-top: 1.25em;
+    // }
+    color: $green-basic;
+    &.headline {
+      margin-top: 0px;
+    }
+  }
+  h4 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-left: none;
+    margin-left: 1rem;
+    margin-right: 2rem;
+    padding-left: 1rem; }
+  h4 a {
+      color: #82806e; }
+    @media screen and (min-width: 6.25em) {
+      h4 {
+        font-size: 1.125rem;
+        margin-bottom: .75em;
+        line-height: 1.5;
+        font-weight: normal;} }
+    @media screen and (min-width: 41.6875em) {
+      h4 {
+        font-size: 1.125rem;
+        margin-bottom: .75em;
+        line-height: 1.5;
+        font-weight: normal;} }
+    @media screen and (min-width: 48.0625em) {
+      h4 {
+        font-size: 1.125rem;
+        margin-bottom: .75em;
+        line-height: 1.5;
+        font-weight: normal;} }
+  p a {
+    color: $link-basic;
+    text-decoration: underline;
+  }
+  span.help {
+    font-weight: bold;
+  }
+  ul {
+    margin-top: 0rem;
+    // padding-top: 1rem;
+    margin-bottom: 2rem;
+    li {
+      list-style-type: disc;
+      margin-left: 2rem;
+      a {
+        color: $link-basic;
+        text-decoration: underline;
+      }
+      @include media($s){
+        font-size: rem(18);
+      }
+      @include media($m){
+        font-size: rem(18);
+      }
+      @include media($l){
+        font-size: rem(18);
+      }
+      margin-bottom: 1rem;
+    }
+  }
+  ol {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    li {
+      list-style-type: decimal;
+      margin-left: 2rem;
+      a {
+        color: $link-basic;
+        text-decoration: underline;
+      }
+      @include media($s){
+        font-size: rem(18);
+      }
+      @include media($m){
+        font-size: rem(18);
+      }
+      @include media($l){
+        font-size: rem(18);
+      }
+      margin-bottom: 1rem;
+    }
+  }
+  blockquote {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    border-left: 4px solid $yellow-basic;
+    margin-left: 1rem;
+    margin-right: 2rem;
+    padding-left: 1rem;
+    @include media($s){
+      font-size: 1rem;
+    }
+    @include media($m){
+      font-size: 1rem;
+    }
+    @include media($l){
+      font-size: em(21);
+    }
+  }
+  .assault-link {
+    background-color: $sidebar-bg;
+    @include pad(1.5rem);
+    margin-bottom: 3rem;
+    box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+    a p.assault-link__title {
+      font-family: Shift;
+      font-weight: bold;
+      font-size: 21px;
+      line-height: 1;
+      margin-bottom: 0;
+      color: $text;
+    }
+    p.assault-link__source {
+      font-family: FranklinGothicURW-Dem;
+      font-size: 16px;
+      text-transform: uppercase;
+      color: $green-basic;
+    }
+  }
+}
+

@@ -1,0 +1,80 @@
+<script>
+  $(function(){
+  // https://davidwalsh.name/javascript-debounce-function
+  function debounce(func, wait, immediate) {
+    var timeout;
+    return function() {
+      var context = this, args = arguments;
+      var later = function() {
+        timeout = null;
+        if (!immediate) func.apply(context, args);
+      };
+      var callNow = immediate && !timeout;
+      clearTimeout(timeout);
+      timeout = setTimeout(later, wait);
+      if (callNow) func.apply(context, args);
+    };
+  };
+
+  enquire.register("screen and (max-width: 666px)", {
+    match : function() {
+      $('.prevnext').removeAttr("style");
+      var main = $('main');
+      setTimeout(function(){
+        $(main).fadeIn().removeClass('load').addClass('loaded');
+      }, 250);
+    },
+    unmatch : function() {
+    }
+  })
+  .register("screen and (min-width: 667px)", {
+    match : function() {
+      // ON LOAD
+      var windowWidth = $(window).width();
+      setTimeout(function(){
+        // Get an array of all element heights
+        var elementHeights = $('.prevnext').map(function() {
+          return $(this).height();
+        }).get();
+        // Math.max takes a variable number of arguments, apply` is equivalent to passing each height as an argumentain
+        var maxHeight = Math.max.apply(null, elementHeights);
+        $('.prevnext').height(maxHeight); // Set each height to the max height
+      }, 250);
+      
+      var h1quotes = $('blockquote > h4').parent();
+      h1quotes.addClass('h4');
+
+      // var main = $('main');
+      // setTimeout(function(){
+      //   $(main).fadeIn().removeClass('load').addClass('loaded');
+      // }, 250);
+
+      // ON RESIZE (debounce for sanity)
+      window.onresize = debounce(function(){
+        // actual resize? http://tinyurl.com/qaoajzu
+        if ($(window).width() != windowWidth) {
+          if ($(window).width() > 667){ // bug?
+            // setTimeout(function(){
+            // delay so we can fade-in
+              // get an array of all element heights
+              $('.prevnext').removeAttr("style");
+              var elementHeights = $('.prevnext').map(function() {
+                return $(this).height();
+              }).get();
+              // get maxHeight
+              var maxHeight = Math.max.apply(null, elementHeights);
+              // set each height to the max height
+              $('.prevnext').height(maxHeight);
+              // $(main).fadeIn().removeClass('load').addClass('loaded');
+              // }, 250);
+            }
+          }
+
+      }, 250);
+    },
+    unmatch : function() {
+      // $('.prevnext').removeAttr("style");
+    }
+  });
+});
+</script>

@@ -1,0 +1,115 @@
+
+footer {
+  background-color: $gray-basic;
+  margin-top: 4rem;
+  .footer {
+    @include media($s) {
+      text-align: center;
+      padding-left: 0px;
+      padding-right: 0px;
+      padding-top: 1rem;
+      padding-bottom: 0px;
+    }
+    @include media($m) {
+      @include pad(1rem);
+      text-align: left;
+    }
+    h3 {
+      @include media($s){
+        font-size: 1rem;
+        margin-top: 1em;
+        margin-bottom: .25em;
+      }
+      @include media($m){
+        font-size: 23px;
+      }
+    }
+    h3 a {
+      color: $brown-basic;
+      text-decoration: none;
+    }
+    p {
+      @include media($s){
+        font-size: em(14);
+      }
+      @include media($m){
+        font-size: 1rem;
+      }
+      @include media($l){
+        font-size: em(18);
+      }
+    }
+    .footer__1 {
+      @include media($s){
+        border-bottom: 1px solid darken($gray-basic, 10%);
+        h3 {
+          margin-top: 0px;
+        }
+      }
+      @include media($m) {
+        @include span-columns(3);
+        @include shift(2)
+        padding-right: .5em;
+        border-bottom: none;
+        h3 {
+          margin-top: 1em;
+        }
+      }
+    }
+    .footer__2 {
+      @include media($s){
+        border-bottom: 1px solid darken($gray-basic, 10%);
+      }
+      @include media($m) {
+        @include span-columns(3);
+        padding-right: .5em;
+        border-bottom: none;
+      }
+    }
+    .footer__3 {
+      @include media($s){
+        border-bottom: 1px solid darken($gray-basic, 10%);
+      }
+      @include media($m) {
+        @include span-columns(3);
+        padding-right: .5em;
+        border-bottom: none;
+      }
+    }
+  }
+}
+
+.footer__bottom {
+  background-color: $brown-basic;
+  .container {
+    color: #fff;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    p {
+      margin-bottom: 0px;
+      @include media($s){
+        font-size: em(14);
+      }
+      @include media($m){
+        font-size: 1rem;
+        span {
+          display: inline;
+        }
+      }
+    }
+    p.illustrator {
+      font-family: 'FranklinGothicURW-Boo';
+      font-size: 14px;
+      margin-top: .25rem;
+      color: $gray-basic;
+    }
+    a {
+      color: #fff;
+      text-decoration: none;
+    }
+    i {
+      padding-left: .5rem;
+    }
+  }
+}

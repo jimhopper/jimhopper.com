@@ -1,43 +1,39 @@
-// suppress warnings about bourbon 5
-// $output-bourbon-deprecation-warnings: false;
+@import url("//hello.myfonts.net/count/301253");
+@font-face {font-family: 'FranklinGothicURW-Boo';src: url('../fonts/301253_0_0.eot');src: url('../fonts/301253_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/301253_0_0.woff2') format('woff2'),url('../fonts/301253_0_0.woff') format('woff'),url('../fonts/301253_0_0.ttf') format('truetype');}
+@font-face {font-family: 'FranklinGothicURW-Dem';src: url('../fonts/301253_1_0.eot');src: url('../fonts/301253_1_0.eot?#iefix') format('embedded-opentype'),url('../fonts/301253_1_0.woff2') format('woff2'),url('../fonts/301253_1_0.woff') format('woff'),url('../fonts/301253_1_0.ttf') format('truetype');}
+
+
+// visual grid
+$visual-grid: true;
+$visual-grid-color: yellow;
+$visual-grid-index: front;
+$visual-grid-opacity: 0.2;
 
 // base
 @import
   "node_modules/normalize.scss/normalize",
-  "vars",
-  "neat/neat";
+  "bourbon",
+  "base/base", // includes grid-settings, which must be imported before neat
+  "neat";
 
 // modules
 @import
-  "modules/common";
+  "modules/fonts",
+  "modules/vars",
+  "modules/common",
+  "modules/visual-grid",
+  "modules/articles",
+  "modules/footer",
+  "modules/header",
+  "modules/home",
+  "modules/utilities";
 
-body {
-}
+  body:before {
+    display: none;
+  }
 
-.container {
-  // @include grid-visual(null, $desktop-grid);
-  @include grid-container;
-}
+  body.grid:before {
+    display: block;
+  }
 
-.example-1__column-2 {
-  @include grid-column(2);
-}
-.example-1__column-4 {
-  @include grid-column;
-    @include grid-media($desktop-grid) {
-      @include grid-column(4 of 16);
-    }
-}
-.example-1__column-8 {
-  @include grid-column;
-    @include grid-media($desktop-grid) {
-      @include grid-column(8 of 16);
-    }
-}
 
-.example__column--fancy {
-  // background-image: linear-gradient(to bottom right, #21e9f4, #00d4ff);
-  // color: #fff;
-  height: 100vh;
-  background-image: linear-gradient(to bottom right, #21e9f4, #00d4ff);
-}

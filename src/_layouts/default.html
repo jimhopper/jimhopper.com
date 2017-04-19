@@ -3,15 +3,13 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="{% if page.class %}{{ page.class }}{% endif %}">
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
+
         {{ content }}
-      </div>
-    </div>
+
 
     {% include footer.html %}
 
@@ -27,5 +25,16 @@
 
 
   </body>
+
+  <!-- script conditionals -->
+  {% if page.class == 'home' %}
+    {% include scripts_home.html %}
+  {% endif %}
+
+  {% if jekyll.environment == "development" %}
+    {% include scripts_grid.html %}
+  {% endif %}
+
+  {% include analytics.html %}
 
 </html>

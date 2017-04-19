@@ -4,55 +4,659 @@ html {
 }
 
 
-// main.load {
-//   visibility: hidden;
-// }
-// main.loaded {
-//   visibility: visible;
-// }
+main.load {
+  visibility: hidden;
+}
+main.loaded {
+  visibility: visible;
+}
 
 
-// h1, h2, h3, h4, h5 {
-//   font-weight: normal;
-// }
+main p {
+  font-family: Shift;
+  @include media($s){
+    font-size: 18px;
+  }
+  @include media($l){
+    font-size: 21px;
+  }
+}
 
-// .container {
-//   @include outer-container;
-// }
+h1, h2, h3, h4, h5 {
+  font-weight: bold;
+}
 
-// .hide-s {
-//   @include media($s){
-//     display: none;
-//   }
-//   @include media($m){
-//     display: block;
-//   }
-// }
+h2 {
+  @include media($s){
+    font-size: 24px
+  }
+  @include media($l){
+    font-size: 32px
+  }
+  margin-bottom: 1em;
+}
+h3 {
+  @include media($s){
+    font-size: 18px
+  }
+  @include media($l){
+    font-size: 26px
+  }
+  margin-bottom: 1em;
+}
+h4 {
+  font-size: 18px;
+}
 
-// .hide-m {
-//   @include media($s){
-//     display: block;
-//   }
-//   @include media($m){
-//     display: none;
-//   }
-// }
+.container {
+  @include outer-container;
+  @include media($s) {
+    @include pad(1rem);
+  }
+  @include media($max-width) {
+    @include pad(0);
+  }
+}
 
-// .hide-l {
-//   @include media($s){
-//     display: block;
-//   }
-//   @include media($m){
-//     display: block;
-//   }
-//   @include media($l){
-//     display: none;
-//   }
-// }
+.copy {
+  @include media($s){
+    @include span-columns(12);
+  }
+  @include media($l){
+    @include span-columns(8);
+    padding-right: 1.5rem;
+    // @include omega();
+  }
+  p {
+    @include media($l) {
+      font-size: em(18);
+    }
+  }
+  .share {
+    a {
+      display: inline-block;
+      border: 2px solid $text;
+      padding: .5em 1.25em;
+      font-family: FranklinGothicURW-Dem;
+      color: $text;
+      @include media($s) {
+        font-size: 12px;
+        margin-right: .5rem;
+      }
+      @include media($m-up) {
+        font-size: 15px;
+        margin-right: 1rem;
+      }
+
+      text-transform: uppercase;
+      margin-top: .5rem;
+      margin-bottom: 1rem;
+      i {
+        padding-right: 2px;
+      }
+    }
+  }
+}
+
+.suggestions {
+  @include media($s){
+    // margin-top: -2rem;
+    @include span-columns(12);
+  }
+  @include media($l){
+    margin-top: 2rem;
+    @include span-columns(10);
+  }
+  .prev, .next {
+    @include media($s){
+      @include span-columns(12 of 12);
+      margin-bottom: 1rem;
+    }
+    @include media($l){
+      @include span-columns(5 of 10);
+    }
+    min-height: 1px;
+    .prev-inner, .next-inner {
+      background-color: $yellow-basic;
+      @include pad(1.5rem 2rem);
+    }
+    // background-color: $yellow-basic;
+    a .prev__header, a .next__header {
+      font-family: FranklinGothicURW-Dem;
+      color: $text;
+      font-size: 16px;
+      margin-bottom: .5em;
+      text-transform: uppercase;
+      i {
+        font-size: 13px;
+      }
+    }
+    a p.prev__title, a p.next__title, {
+      font-family: Shift;
+      color: $text;
+      font-weight: bold;
+      @include media($s){
+        font-size: 18px;
+      }
+      @include media($l){
+        font-size: 25px;
+      }
+      margin-bottom: 0;
+    }
+    a:hover p.prev__title, a:hover p.next__title{
+      color: $green-basic;
+    }
+  }
+  .prev {
+    text-align: left;
+  }
+  .next {
+    text-align: right;
+  }
+}
+
+.mobile-sidebar {
+  .container {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+#hotlines {
+  .sidebar__header a {
+    color: $green-basic !important;
+    border-bottom: none;
+  }
+}
+
+#hotlines.hide {
+  .sidebar__header a {
+    color: $green-basic !important;
+    border-bottom: none;
+  }
+  .sidebar__inner {
+    padding-bottom: .5rem;
+  }
+  .sidebar__subheader, .sidebar__items {
+    display: none;
+  }
+}
+
+.sidebar {
+  @include media($s){
+    @include span-columns(12);
+    // @include pad(1rem 0);
+    // margin-top: 1rem;
+  }
+  @include media($l){
+    @include span-columns(4);
+    @include omega();
+  }
+  .sidebar__inner {
+    // box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+    @include media($s){
+      @include pad(1rem);
+    }
+    @include media($l){
+      @include pad(1rem 1.5rem 1.5rem);
+    }
+    background-color: $sidebar-bg;
+    margin-bottom: 2rem;
+  }
+  .sidebar__inner.publications, .sidebar__inner.services {
+    p {
+      margin-bottom: 1em;
+    }
+  }
+  .sidebar__header {
+    font-family: FranklinGothicURW-Dem;
+    color: $green-basic;
+    font-size: 16px;
+    margin-bottom: .5em;
+    text-transform: uppercase;
+  }
+  .sidebar__subheader {
+    font-family: FranklinGothicURW-Boo;
+    margin-bottom: .3em;
+  }
+
+  ul.sidebar__items {
+    margin: 0;
+    li {
+      font-family: FranklinGothicURW-Boo;
+      line-height: 1.5;
+      margin: 0;
+      padding-left: 0;
+      list-style-type: none;
+      @include media($s){
+        font-size: 1rem;
+      }
+      @include media($m){
+        font-size: 1rem;
+      }
+      a {
+        color: $sidebar-links !important;
+        text-decoration: none !important;
+        border-bottom: 1px solid lighten($sidebar-links, 10%);
+      }
+    }
+    li.current a {
+      color: $green-basic !important;
+      font-weight: bold;
+    }
+    ul.sub {
+      margin-left: 1rem;
+      margin-top: .25rem;
+      margin-bottom: .25rem;
+      padding-top: 0px;
+      li {
+        list-style-type: disc;
+        a {
+          color: $sidebar-links !important;
+          font-weight: normal;
+        }
+      }
+      li.current a {
+        color: $green-basic !important;
+        border-bottom: 1px solid $green-basic;
+        font-weight: bold;
+      }
+    }
+  }
+
+  li.hotline {
+    font-weight: bold !important;;
+  }
+
+  p {
+    font-family: FranklinGothicURW-Boo;
+    line-height: 1.5;
+    margin: 0;
+    @include media($s){
+      font-size: 1rem;
+    }
+    @include media($m){
+      font-size: 1rem;
+    }
+    a {
+      color: $sidebar-links !important;
+      text-decoration: none !important;
+      border-bottom: 1px solid lighten($sidebar-links, 10%);
+    }
+  }
+
+
+}
+
+.custom_sidebar {
+  @include media($s){
+    @include span-columns(12);
+    @include pad(1rem 0);
+    margin-top: 0px;
+    &.first {
+      margin-top: 1rem;
+    }
+  }
+  @include media($l){
+    @include span-columns(4);
+    @include omega();
+  }
+  .sidebar__inner {
+    // box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+    @include media($s){
+      @include pad(1rem);
+      img {
+        margin-bottom: 1rem;
+        max-width: 100%;
+      }
+    }
+    @include media($l){
+      @include pad(1rem 1.5rem .5rem);
+    }
+    background-color: $sidebar-bg;
+    margin-bottom: 0;
+  }
+  .sidebar__header {
+    font-family: FranklinGothicURW-Dem;
+    color: $green-basic;
+    font-size: 16px;
+    margin-bottom: .5em;
+    text-transform: uppercase;
+  }
+
+  ul, ol {
+    margin: 0;
+    li {
+      font-family: FranklinGothicURW-Boo;
+      line-height: 1.5;
+      margin: 0;
+      padding-left: 0;
+      list-style-type: none;
+      @include media($s){
+        font-size: 1rem;
+      }
+      @include media($m){
+        font-size: 1rem;
+      }
+      a {
+        color: $sidebar-links !important;
+        text-decoration: none !important;
+        border-bottom: 1px solid lighten($sidebar-links, 10%);
+      }
+    }
+  }
+
+  p {
+    font-family: FranklinGothicURW-Boo;
+    line-height: 1.5;
+    margin-bottom: 1em;
+    @include media($s){
+      font-size: 1rem;
+    }
+    @include media($m){
+      font-size: 1rem;
+    }
+    a {
+      color: $sidebar-links !important;
+      text-decoration: none !important;
+      border-bottom: 1px solid lighten($sidebar-links, 10%);
+    }
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+
+}
+
+.hide-s {
+  @include media($s){
+    display: none;
+  }
+  @include media($m){
+    display: block;
+  }
+}
+
+.show-s {
+  @include media($s){
+    display: block;
+  }
+  @include media($m){
+    display: none;
+  }
+}
+
+.hide-m {
+  @include media($s){
+    display: block;;
+  }
+  @include media($m){
+    display: none;
+  }
+}
+
+.show-m {
+  @include media($s){
+    display: none;
+  }
+  @include media($m){
+    display: block;
+  }
+}
+
+.hide-l {
+  @include media($s){
+    display: block;
+  }
+  @include media($m){
+    display: block !important;
+  }
+  @include media($l){
+    display: none !important;
+  }
+}
+
+
+.show-l {
+  @include media($s){
+    display: none !important;
+  }
+  @include media($m){
+    display: none !important;
+  }
+  @include media($l){
+    display: block !important;
+  }
+}
+
+
+button {
+  border-radius: 0px;
+  border: 0px;
+  background-color: #FFF;
+  @include transition(all .1s ease-in-out);
+  padding: 1em 1.5em;
+  &:hover {
+    // @include transition(all .1s ease-in-out);
+    color: #fff;
+    background-color: $green-basic;
+    text-decoration: none;
+  }
+  p {
+    font-family: FranklinGothicURW-Dem;
+    font-size: 1.5rem;
+    line-height: 1;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: $green-basic;
+    margin-bottom: 0px;
+  }
+}
+
+section.hero {
+  .container {
+    height: 100%;
+  }
+  @include media($s){
+    margin-bottom: 1rem;
+    // .headline {
+    //   margin-top: 3vh;
+    //   margin-bottom: 3vh;
+    // }
+    h1 {
+      font-family: Shift;
+      font-weight: bold;
+      font-size: 28px;
+      margin-top: 0;
+      margin-bottom: 0;
+      color: $hero-head;
+    }
+    h2 {
+      font-family: Shift;
+      font-weight: bold;
+      font-size: 21px;
+      line-height: 1.4;
+      margin-bottom: 0px;
+      color: $hero-subhead;
+    }
+  }
+  @include media($m){
+    margin-bottom: 3rem;
+    .headline {
+    }
+    h1 {
+      font-size: 60px;
+    }
+    h2 {
+      font-size: 24px;
+      line-height: 1.4;
+      margin-top: 20px;
+    }
+  }
+  @include media($l) {
+    // padding-top: 4.5rem;
+    // padding-bottom: 4.5rem;
+    h2 {
+      font-size: 28px;
+      margin-bottom: 0px;
+    }
+  }
+  @include media($xl){
+    h2 {
+      font-size: 33px;
+      margin-bottom: 0px;
+    }
+  }
+}
+
+
+section.hero {
+  .container {
+    height: 100%;
+  }
+  @include media($s){
+    margin-bottom: 1rem;
+    // .headline {
+    //   margin-top: 3vh;
+    //   margin-bottom: 3vh;
+    // }
+    h1 {
+      font-family: Shift;
+      font-weight: bold;
+      font-size: 28px;
+      margin-top: 0;
+      margin-bottom: 0;
+      color: $hero-head;
+    }
+    h2 {
+      font-family: Shift;
+      font-weight: bold;
+      font-size: 21px;
+      line-height: 1.4;
+      margin-bottom: 0px;
+      color: $hero-subhead;
+    }
+  }
+  @include media($m){
+    margin-bottom: 3rem;
+    .headline {
+    }
+    h1 {
+      font-size: 60px;
+    }
+    h2 {
+      font-size: 24px;
+      line-height: 1.4;
+      margin-top: 20px;
+    }
+  }
+  @include media($l) {
+    // padding-top: 4.5rem;
+    // padding-bottom: 4.5rem;
+    h1 {
+      margin-top: .15em;
+    }
+    h2 {
+      font-size: 28px;
+      margin-bottom: 0px;
+    }
+  }
+  @include media($xl){
+    h1 {
+      margin-top: .15em;
+    }
+    h2 {
+      font-size: 33px;
+      margin-bottom: 0px;
+    }
+  }
+}
 
 
 
+section.copy {
+  .main {
+    font-family: shift;
+    color: $text;
+    @include media($l){
+      padding-top: 4rem;
+      p {
+        font-size: 21px;
+      }
+    }
+  }
+}
 
+.publications .item {
+  cursor: pointer;
+  @include pad(2rem 1.5rem);
+  background-color: $sidebar-bg;
+  margin-bottom: 1.5rem;
+  p.authors {
+    font-size: 18px;
+    color: $link-basic;
+    margin-bottom: 0;
+  }
+  p.title {
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0;
+  }
+  p.details {
+    font-family: FranklinGothicURW-Dem;
+    color: $green-basic;
+    font-size: 16px;
+    margin-bottom: 0;
+    text-transform: uppercase;
+  }
+  p.summary {
+    display: block;
+    &.hide {
+      display: none;
+    }
+  }
+  p.pdf {
+    display: block;
+    text-transform: uppercase;
+    font-size: 14px;
+    a {
+      color: $text;
+      font-weight: bold;
+    }
+    &.hide {
+      display: none;
+    }
+  }
+}
+
+.services {
+  .service a {
+    font-family: FranklinGothicURW-Dem;
+    // color: #fff;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: .5em;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: .75rem 2rem;
+    margin-top: .75rem;
+    margin-bottom: 2rem;
+    background-color: $sidebar-bg;
+  }
+  hr {
+    border-top-color: lighten($text, 65%);
+  }
+}
+
+.about {
+  img.jim {
+    border-bottom: 4px solid $yellow-basic;
+    width: 100%;
+  }
+}
 
 
 

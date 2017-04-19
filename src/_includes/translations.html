@@ -1,0 +1,10 @@
+<div class="sidebar">
+  <div class="sidebar__inner">
+    <p class="sidebar__header">TRANSLATIONS</p>
+      <ul class="sidebar__items">
+        {% for item in site.data.sexual-assault-translations %}
+        <li class="{{current}}"><a href="/sexual-assault/{{item.link}}">{{item.language}}</a></li>
+        {% endfor %} 
+      </ul>
+  </div>
+</div>

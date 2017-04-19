@@ -1,52 +1,127 @@
 # Title, decription, tagline and URL for your site
 # Can be used in your theme by calling 'site.title' and so on
-title: Jekyllized Boilerplate
-description:
-url:
+title: Jim Hopper, Ph.D.
+description: Clinical psychologist and independent consultant, Teaching Associate in Psychology, Harvard Medical School, and nationally recognized expert on psychological trauma.
+url: www.jimhopper.com
 
 # Used so Jekyll outputs the site correctly so Gulp can do what it wants
 source: src
 destination: dist
 exclude:
 
-# Same as the title etc for your site but can instead be
-# called by using 'site.author.name' and so on
-# NOTE: Don't use @ in front of your Twitter username
-author:
-  name: Ryan Deussing
-  email:
-  uri:
-  bio:
-  twitter:
-  github:
+collections:
+  child-abuse:
+    output: true
+    permalink: /child-abuse/:title/
+  consequences-of-abuse:
+    output: true
+    permalink: /child-abuse/consequences-of-abuse/:title/
+  recovered-memories:
+    output: true
+    permalink: /child-abuse/recovered-memories/:title/
+  sexual-abuse-of-boys:
+    output: true
+    permalink: /child-abuse/sexual-abuse-of-boys/:title/
+  healing-and-happiness:
+    output: true
+    permalink: /healing-and-happiness/:title/
+  mindfulness-and-meditation:
+    output: true
+    permalink: mindfulness-and-meditation/:title/
+  the-brain:
+    output: true
+    permalink: /the-brain/:title/
 
-# _config.build.yml overwrites these options when you run `gulp build`
-# Enables future posts (posts with dates in the future) and drafts
-future: true
-show_drafts: true
-# Disables the more accurate related posts for faster generating of the site
-lsi: false
-# Only make the last 10 posts so generating isn't slow
-limit_posts: 10
+defaults:
+  -
+    scope:
+      path: ""
+      type: child-abuse
+    values:
+      topic: child-abuse
+      topic_name: Child Abuse
+      layout: topic
+      class: topic child-abuse
+  -
+    scope:
+      path: ""
+      type: the-brain
+    values:
+      topic: the-brain
+      topic_name: The Brain
+      layout: topic
+      class: topic the-brain
+  -
+    scope:
+      path: ""
+      type: mindfulness-and-meditation
+    values:
+      topic: mindfulness-and-meditation
+      topic_name: Mindfulness & Meditation
+      layout: topic
+      class: topic mindfulness-and-meditation
+  -
+    scope:
+      path: ""
+      type: sexual-abuse-of-boys
+    values:
+      topic: child-abuse
+      topic_name: Child Abuse
+      subtopic: Sexual Abuse of Boys
+      layout: topic
+      class: topic child-abuse
+  -
+    scope:
+      path: ""
+      type: recovered-memories
+    values:
+      topic: child-abuse
+      topic_name: Child Abuse
+      subtopic: Recovered Memories
+      layout: topic
+      class: topic child-abuse
+  -
+    scope:
+      path: ""
+      type: healing-and-happiness
+    values:
+      topic: healing-and-happiness
+      topic_name: Healing & Happiness
+      layout: topic
+      class: topic healing-and-happiness
+  -
+    scope:
+      path: ""
+      type: consequences-of-abuse
+    values:
+      topic: child-abuse
+      topic_name: Child Abuse
+      subtopic: Consequences of Abuse
+      layout: topic
+      class: topic child-abuse
+  -
+    scope:
+      path: "about.html"
+    values:
+      layout: default
+  -
+    scope:
+      path: "publications.html"
+    values:
+      layout: default
+  -
+    scope:
+      path: "services.html"
+    values:
+      layout: default
+  -
+    scope:
+      path: "sexual-assault.html"
+    values:
+      layout: topic
+      permalink: /sexual-assault/
+      class: topic sexual-assault
 
-# Permalink structure and pagination options
-# permalink: none
-# paginate: 10
-# paginate_path: 'page:num'
-# excerpt_separator: ''
 
 # Markdown library and options
 markdown: redcarpet
-redcarpet:
-  extensions: ['no_intra_emphasis', 'tables', 'fenced_code_blocks', 'autolink', 'smart',
-              'strikethrough', 'superscript', 'underline', 'highlight', 'footnotes']
-highlighter: rouge
-
-# Extending Jekyll
-gems:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-redirect-from

@@ -1,0 +1,101 @@
+.home {
+
+  .hero {
+    background-image: url('/assets/images/header-home.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    // background-position: 100% 0px;
+    background-color: rgba(255,255,255,0.2);
+    border-bottom: 4px solid $yellow-basic;
+    @include media($s){
+      padding-top: 3rem;
+      padding-bottom: 3rem;
+    }
+    @include media($l) {
+      padding-top: 6rem;
+      padding-bottom: 6rem;
+    }
+  }
+
+  .intro {
+    margin-bottom: 1.5rem;
+  }
+
+  .topics h2 {
+    color: $green-basic;
+  }
+
+  .topic-wrapper {
+    @include span-columns(12);
+  }
+
+  .topic {
+    position: relative;
+    background-color: $yellow-basic;
+    margin-bottom: 1.5rem;
+    .header {
+      width: 100%;
+      // float: left;
+      margin-bottom: 1em;
+      h4 {
+        display: inline-block;
+        margin-top: .6em;
+        padding-left: 1em;
+        color: #191919;
+        max-width: 75%;
+        float: left;
+      }
+      img {
+        height: 40px;
+        float: left;
+      }
+      i {
+        position: absolute;
+        top: 40px;
+        right: 20px;
+      }
+    }
+    p.description {
+      clear: left;
+      margin-top: 1em;
+      margin-bottom: 1em;
+    }
+    button {
+      p {
+        color: $text;
+        font-size: 1rem;
+      }
+    }
+  }
+
+  .topic__full {
+    @extend .topic;
+    @include span-columns(12);
+    @include pad(1.5rem);
+  }
+
+  .topic__half {
+    @extend .topic;
+    @include media($s) {
+      @include span-columns(12 of 12);
+    }
+    @include media($m) {
+      @include span-columns(6 of 12);
+    }
+    @include pad(1.5rem);
+    button {
+      position: absolute;
+      bottom: 1.5rem;
+      left: 1.5rem;
+    }
+    p.description {
+      margin-bottom: 2em;
+    }
+  }
+
+  .sidebar__inner {
+    margin-bottom: 0px;
+  }
+
+}
+
