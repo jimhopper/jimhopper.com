@@ -2,8 +2,10 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="wrkPon54UiUU90Ac-KRBlsLmu3Iv1G-hLEwTIHKlfmQ" />
   <meta name="description" content="{% if page.description %}{{ page.description}}{% else %}{{ site.description }}{% endif %}" />
-  <title>{{site.title}} | {% if page.topic %}{{ page.topic_name | escape }} | {% endif %}{% if page.custom_title %}{{ page.custom_title | escape }}{% else %}{{ page.title | escape }}{% endif %}</title>
+  <title>{{site.title}}{% if page.topic %} | {{ page.topic_name | escape }}{% endif %}{% if page.custom_title %}{% if page.custom_title != page.topic_name %} | {{ page.custom_title | escape }}{% endif %}{% else %} | {{ page.title | escape }}{% endif %}
+  </title>
   <link href="//cloud.webtype.com/css/a55677e0-d776-4286-ace2-97d513586574.css" rel="stylesheet" type="text/css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 

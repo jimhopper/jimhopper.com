@@ -121,7 +121,27 @@ defaults:
       layout: topic
       permalink: /sexual-assault/
       class: topic sexual-assault
+  -
+    scope:
+      path: "repeat-rape-by-college-men.html"
+    values:
+      layout: topic
+      permalink: /sexual-assault/repeat-rape-by-college-men/
+      class: topic sexual-assault
+  -
+    scope:
+      path: "cms.md"
+    values:
+      layout: "cms"
+      permalink: "/cms/"
+      _hide_content: true
 
 
 # Markdown library and options
 markdown: redcarpet
+
+# Extending Jekyll
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from

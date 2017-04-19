@@ -833,6 +833,10 @@ h4 {
   margin-bottom: .5em;
   text-transform: uppercase; }
 
+.sidebar .sidebar__header a {
+  color: #689700 !important;
+  border-bottom: none; }
+
 .sidebar .sidebar__subheader {
   font-family: FranklinGothicURW-Boo;
   margin-bottom: .3em; }
