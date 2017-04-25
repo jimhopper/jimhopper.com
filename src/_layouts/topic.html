@@ -69,7 +69,9 @@ layout: default
   <section class="article">
     <div class="container">
       <div class="copy">
-        {{ content }}
+        <div class="content-wrapper">
+          {{ content }}
+        </div>
         <div class="share">
           <!-- <a href="mailto:?subject={{page.topic}} | {{page.title}}"><i class="fa fa-envelope" aria-hidden="true"></i> email</a> -->
           <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}"><i class="fa fa-facebook" aria-hidden="true"></i> share</a>
