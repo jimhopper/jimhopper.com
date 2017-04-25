@@ -664,6 +664,9 @@ h4 {
     .container {
       padding: 0; } }
 
+.copy img {
+  margin: 2rem 0; }
+
 @media screen and (min-width: 6.25em) {
   .copy {
     float: left;

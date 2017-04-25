@@ -123,7 +123,7 @@ defaults:
       class: topic sexual-assault
   -
     scope:
-      path: "repeat-rape-by-college-men.html"
+      path: "repeat-rape-by-college-men.md"
     values:
       layout: topic
       permalink: /sexual-assault/repeat-rape-by-college-men/

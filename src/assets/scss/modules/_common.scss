@@ -59,6 +59,9 @@ h4 {
 }
 
 .copy {
+  img {
+    margin: 2rem 0;
+  }
   @include media($s){
     @include span-columns(12);
   }
