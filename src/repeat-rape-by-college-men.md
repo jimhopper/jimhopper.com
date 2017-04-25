@@ -6,7 +6,7 @@ hotlines_sidebar: true
 nexturl: /the-brain/overview/
 nexttitle: The Brain
 prevurl: /sexual-assault/
-prevtitle: Unwanted or Abusive Childhood Experiences
+prevtitle: 'Sexual Assault & the Brain'
 og_image_path: /assets/images/header-sexual-assault-small.jpg
 show_translations: false
 ---
