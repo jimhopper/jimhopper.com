@@ -40,7 +40,7 @@ Importantly, these surveys do not use the words “rape” or “sexual assault.
 
 Please note that we can’t know whether the men’s responses are accurate or honest reflections of their actual behavior. Some men do not admit to themselves – let alone to researchers, even on an anonymous or confidential survey – that they have committed such acts even when they have. So these 4-16% statistics and the others presented here are likely underestimates to some extent.
 
-## Among College Men Who Rape, What Percentage Are *Repeat* Rapists?
+## Among College Men Who Rape, What Percentage Are __Repeat__ Rapists?
 
 Research suggests that two-thirds or more of college men are repeat rapists – or at least acknowledge committing rape and admit to raping more than once.
 
