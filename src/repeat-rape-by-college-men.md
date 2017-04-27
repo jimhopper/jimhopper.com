@@ -18,9 +18,7 @@ show_translations: false
 
 In many studies researchers have found that 4-16% of college men report committing rapes. Only two studies of college men had large enough samples to investigate what percentage of rapists are repeat rapists, one a study of typical 18-22 year old men at large university and the other of older men at a commuter school. Both studies found that two-thirds or more of college rapists are repeat rapists who have raped four or more times on average, even within a single year of college.
 
-Due to simple math, those two-thirds of college rapists who average four or more rapes each account for the vast majority of college rapes, around 90% or more.
-A study of college-aged Navy recruits had the same findings, which suggests that these statistics are not determined by whether men are college students or not.
-Finally, in the study of typical college men about 25% of rapists, the majority of whom are repeat offenders, admitted to raping in more than one year of college. However, that 25% statistic depends on rapists, including repeat rapists, being equally honest, year after year, on survey questions about rape.
+Due to simple math, those two-thirds of college rapists who average four or more rapes each account for the vast majority of college rapes, around 90% or more. A study of college-aged Navy recruits had the same findings, which suggests that these statistics are not determined by whether men are college students or not. Finally, in the study of typical college men about 25% of rapists, the majority of whom are repeat offenders, admitted to raping in more than one year of college. However, that 25% statistic depends on rapists, including repeat rapists, being equally honest, year after year, on survey questions about rape.
 
 It is critical that journalists, policy makers and everyone else working to address campus sexual assault understand these basic statistics on college rapists and repeat rape, and avoid apples-to-oranges comparisons of statistics about completely different things.
 
@@ -30,9 +28,7 @@ This page presents, in simple terms with links to scientific research, statistic
 
 It presents the available evidence on the percentage of college men who acknowledge committing rape on surveys; the percentage of rapists who are “repeat rapists,” or admit to raping more than once; the percentage of all rapes that are committed by repeat rapists; and the percentage of rapists who admit to perpetrating rape during more than one year of college.
 
-How is “rape” defined here, and for most research studies?
-
-> Completed or attempted vaginal, anal or oral sexual intercourse through the threat or actual use of force, or by incapacitating the victim with drugs or alcohol. (Note: penetration can be with any body part or object, not just the penis.)
+How is “rape” defined here, and for most research studies?&nbsp;*Completed or attempted vaginal, anal or oral sexual intercourse through the threat or actual use of force, or by incapacitating the victim with drugs or alcohol.*(Note: penetration can be with any body part or object, not just the penis.)
 
 Attempted rape is included not only because it is a crime, but because it can be very traumatic and harmful to victims. Thus almost all researchers include attempted rape in their studies of rape perpetration and in their statistics on rapists.
 
@@ -44,7 +40,7 @@ Importantly, these surveys do not use the words “rape” or “sexual assault.
 
 Please note that we can’t know whether the men’s responses are accurate or honest reflections of their actual behavior. Some men do not admit to themselves – let alone to researchers, even on an anonymous or confidential survey – that they have committed such acts even when they have. So these 4-16% statistics and the others presented here are likely underestimates to some extent.
 
-## Among College Men Who Rape, What Percentage Are <em>Repeat</em> Rapists?
+## Among College Men Who Rape, What Percentage Are *Repeat* Rapists?
 
 Research suggests that two-thirds or more of college men are repeat rapists – or at least acknowledge committing rape and admit to raping more than once.
 
