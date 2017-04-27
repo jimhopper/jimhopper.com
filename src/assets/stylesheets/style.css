@@ -1390,6 +1390,8 @@ ul.onpage {
         color: #689700; }
         .article h2 a:hover, .article h3 a:hover {
           color: #689700; } }
+  .article h2 .underline, .article h3 .underline {
+    text-decoration: underline; }
   .article h2.headline, .article h3.headline {
     margin-top: 0px; }
 
