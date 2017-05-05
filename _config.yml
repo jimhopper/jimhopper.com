@@ -138,6 +138,8 @@ defaults:
 
 
 # Markdown library and options
+
+# kramdown required to turn headings into anchors
 markdown: kramdown
 
 # Extending Jekyll
