@@ -138,7 +138,7 @@ defaults:
 
 
 # Markdown library and options
-markdown: redcarpet
+markdown: kramdown
 
 # Extending Jekyll
 gems:

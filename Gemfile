@@ -1,7 +1,7 @@
 source "http://rubygems.org"
 
 gem 'jekyll'
-gem 'redcarpet'
+gem 'kramdown'
 # gem 'neat' # only needed to install neat files
 
 # jekyll plugins
