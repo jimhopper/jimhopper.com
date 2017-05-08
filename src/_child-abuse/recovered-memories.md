@@ -82,7 +82,7 @@ The fact that human memory is not like an unedited video *does* mean that memori
 
 > Memory is complicated. That can't be avoided. But memory can be understood.
 
-Of course, the picture is more complex: Someone may block out or 'edit out' some disturbing emotions and sensations. Children or adults may focus their attention attention on a spot on the ceiling or the wall, or imagine themselves in a completely different place altogether. In those cases, the 'central details' of the experience, for that person at that time (e.g., that spot on the ceiling), are things that would typically be peripheral details or not even part of the memory at all. In that case, what would otherwise be considered the 'main' or 'most important' details of the *sexual* acts may not be encoded into memory, or only minimally so. (See also the second half of my YouTube talk, [Neurobiology of Trauma & Sexual Assault](https://www.youtube.com/watch?v=dwTQ_U3p5Wc), where I focus on memory encoding, including of central vs. peripheral details.)
+Of course, the picture is more complex: Someone may block out or 'edit out' some disturbing emotions and sensations. Children or adults may focus their attention on a spot on the ceiling or the wall, or imagine themselves in a completely different place altogether. In those cases, the 'central details' of the experience, for that person at that time (e.g., that spot on the ceiling), are things that would typically be peripheral details or not even part of the memory at all. Thus what would otherwise be considered the 'main' or 'most important' details of the *sexual* acts may not be encoded into memory, or only minimally so. (See also the second half of my YouTube talk, [Neurobiology of Trauma & Sexual Assault](https://www.youtube.com/watch?v=dwTQ_U3p5Wc), where I focus on memory encoding, including of central vs. peripheral details.)
 
 ### There Is No One Thing That is 'Memory'
 
@@ -102,7 +102,7 @@ These implicit memories are typically fragmentary sensations or emotions that ge
 
 That is, one is remembering part of an experience (e.g., of sexual abuse), but *not realizing* that's what's happening, not even realizing that one is remembering anything, and thus not seeing any connection between one's current experience and an event or events in one's past.
 
-For example, someone might become afraid or angry when touched by an older man or woman, but not realize that's because they were sexually abused by an older person as a child. Or someone could have sudden disturbing images of rape when being sexual in a loving way, but have no ideas that the images are connected to a rape that happened to them in the past. Or the smell of beer or a certain kind of liquor may trigger feelings of terror or disgust, but the person is baffled about why.
+For example, someone might become afraid or angry when touched by an older man or woman, but not realize that's because they were sexually abused by an older person as a child. Or someone could have sudden disturbing images of rape when being sexual in a loving way, but have no idea that the images are connected to a rape that happened to them in the past. Or the smell of beer or a certain kind of liquor may trigger feelings of terror or disgust, but the person is baffled about why.
 
 When such experiences happen, they can be very strange and upsetting, and can seem 'irrational' to the person having them (and others who are told about such experiences). He or she may think, “What’s wrong with me?” or “Am I crazy?”
 
