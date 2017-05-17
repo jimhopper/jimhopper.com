@@ -65,7 +65,6 @@ For most people, there are several reasons for seeking to understand why another
 * Feeling that life is unfair, unjust, random and/or meaningless, and hoping that understanding how someone could sexually abuse a child will bring some order and meaning to life.
 * Focusing on the other person, including why they did it, can be a way of avoiding one’s own responsibility, as an adult, for dealing with harmful effects in one’s own life, including self-destructive and harmful behaviors. (We mention this possible reason with no criticism of those to whom it applies. It’s not uncommon, and totally understandable, among those still struggling with major negative effects.)
 
-
 Importantly, people may not be fully aware of some reasons why they’re asking why the other person (or people) did this to them. They may not recognize some hopes they have for the benefits that such understanding could bring. That’s totally normal. Over time the full significance of this question in your life may become clearer – or completely change as other aspects of your life change.
 
 Whatever your situation, interest in honestly exploring this difficult question is a sign of courage. At the same time, it’s worth remembering that strong feelings may come up, and that it’s a good idea to pace yourself and take care of yourself.
@@ -87,7 +86,6 @@ Whether someone is interested in trying to understand why the individual(s) who 
 * How you felt about them after the physical/emotional/sexual experiences (began).
 * How much you have suffered and lost as a consequence of what happened.
 
-
 For example, if you didn’t know them, or always disliked or even hated them, you may have little stake or interest in understanding what could have led them to do what they did to you. You could probably care less what was going on inside them, or what their childhood was like.
 
 On the other hand, if it was someone you looked up to – or even loved, especially if you still love them – the wish to understand why they hurt you may be much stronger. The answer to this question will feel very important.
@@ -104,13 +102,11 @@ However, when parents or other adults are physically or emotionally abusive to a
 * Whatever capacities the adult may have to understand and empathize with the effects of experiences of physical or emotional violence on the child (e.g., powerlessness, fear, pain and shame), are not available to the adult while being abusive (or later believing the behavior was justified).
 * Both while engaging in the abusive and attacking behavior, and while justifying it later, adults are *attempting* – in a very unhealthy way – *to* *defend themselves* against their own unwanted, vulnerable and painful feelings (e.g., powerlessness, incompetence, shame, being disrespected or humiliated, etc.).
 
-
 Similarly, across every situation in which sexual exploitation or abuse of a child happens, there are also some common features:
 
 * A person with power or influence over a child develops a sexual interest in the child.
 * Whatever internal and external barriers or “stops” that would otherwise prevent him or her from betraying the child’s trust, are overcome.
 * The person acts on their sexual fantasies and impulses toward the child.
-
 
 ## Understanding Is Not About Excuses or Forgiveness
 
@@ -171,7 +167,6 @@ As noted above, when an adult physically or emotionally abuses a child there are
 * Do they have the skills required to experience vulnerable emotions without immediately attempting to escape them, for example with angry outbursts or alcohol, drugs or some other addiction?
 * What else is happening in their life (e.g., stresses of poverty, unemployment) or relationships (e.g., conflict with spouse, lack of friends) that reduces internal and external barriers to thinking it's OK to physically or emotionally attack a child and to engaging in such behavior?
 
-
 When it comes to attempting to understand (which ultimately may not be possible) why particular, complex people have sexually used or abused as child, again, there are some key questions to consider:
 
 * What are the confusions they have about their needs, especially why they believe they 'need' to be sexual with a child?
@@ -179,7 +174,6 @@ When it comes to attempting to understand (which ultimately may not be possible)
 * What is the unique combination of (confused) beliefs, motivations and rationalizations that made it possible for them to sexually use a child?
 * How have their own life and experiences (again, not only sexual), and how they responded to those experiences, helped to bring about such beliefs, motivations and rationalizations?
 * Which internal and external barriers to sexually abusing a child were overcome, and how (e.g., use of alcohol, use of child sexual pornography, extreme stress or other circumstance that contributed to their 'giving up’ on resisting their sexual fantasies or impulses toward children)?
-
 
 In addition, there are some general principles that therapists and researchers, by working with and studying adults who have sexually used or abused children, have learned about why people engage in such behaviors.
 
