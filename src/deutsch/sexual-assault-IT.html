@@ -1,0 +1,41 @@
+---
+title: German Sexual Assault
+custom_title:
+layout: topic
+class: topic sexual-assault
+hotlines_sidebar: false
+permalink: sexual-assault/deutsch/
+nexturl: /the-brain/overview/
+nexttitle: The Brain
+prevurl: /child-abuse/overview/
+prevtitle: Unwanted or Abusive Childhood Experiences
+og_image_path: /assets/images/header-sexual-assault-small.jpg
+links:
+  - title: Fight in German
+    link: /sexual-assault/deutsch/fight
+    source: Washington Post
+    info: 'this will be in German'
+  - title: Memories in German
+    link: /sexual-assault/deutsch/memories
+    source: Time.com
+    info: 'this will be in German'
+show_translations: true
+---
+
+<p class="editable"><span style="background-color: #f1f1ef;display: inline-block; height: 1.2; padding: 10px 10px;">Esta informaci&oacute;n y mas est&aacute; disponible <a href="/sexual-assault/">en Ingl&eacute;s</a></span></p>
+
+<p class="editable">&iquest;Por qu&eacute; muchas v&iacute;ctimas de violaci&oacute;n sexual no gritan ni se defienden?<br /><br />&iquest;Por qu&eacute; los recuerdos de violaci&oacute;n sexual son tan a menudo fragmentados y confusos?</p>
+
+<p class="editable">&iquest;Es la respuesta del cerebro a un ataque esencialmente la misma, controlada por los circuitos del miedo, funcionando por reflejos y h&aacute;bitos &ndash; durante una violaci&oacute;n sexual, agresi&oacute;n f&iacute;sica y combate militar?<br /><br />&iquest;Cu&aacute;les son las implicaciones de las respuestas a estas preguntas &ndash; para personas que han sido violadas sexualmente, para quienes investigan y acusan esos delitos y para todos los que encuentran o conocen a alguien que ha sido violado sexualmente?</p>
+
+<p class="editable">Estas son las preguntas que paso mucho tiempo respondiendo estos d&iacute;as como consultor y capacitador.<br /><br />Aqu&iacute; doy respuestas, con enlaces a mis art&iacute;culos publicados originalmente en el medio popular.</p>
+
+{% for item in page.links %}
+  <div class="assault-link">
+    <a href="{{ item.link }}"><p class="assault-link__title">{{ item.title }}</p></a>
+    <a href="{{ item.link }}"><p class="assault-link__source">{{ item.source }}</p></a>
+    <p class="assault-link__info">{{ item.info }}</p>
+  </div>
+{% endfor %}
+
+<p class="editable"></p>
