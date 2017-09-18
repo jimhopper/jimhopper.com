@@ -46,7 +46,7 @@ Research suggests that two-thirds or more of college men who commit rape are rep
 
 Because a relatively small percentage of men commit rape, only large studies can generate useful statistics on the percentage who are repeat rapists.
 
-Fortunately, there is a large study of about 950 “typical” college men; that is, 18-22 year olds who attended a large southern university where most students live on campus. (This is one of two datasets used for a flawed&nbsp;[2015 paper by Kevin Swartout and colleagues](http://www.ncbi.nlm.nih.gov/pubmed/26168230).) Its data include the number of rapes and attempted rapes that each man reported committing on successive surveys covering each year of college, which means the study’s researchers could have conducted analyses and published findings on (1) what percentage of rapists are repeat rapists, and (2) how many rapes they report committing. They have not done so, but the data are publicly available, so any researcher can conduct those analyses (or verify others’ analyses).
+Fortunately, there is a large study of about 950 “typical” college men; that is, 18-22 year olds who attended a large southern university where most students live on campus. (This is one of two datasets used for a [flawed](https://pubpeer.com/publications/522F0898657EB7AD5486F4DAC083CE)&nbsp;2015&nbsp;[paper by Kevin Swartout and colleagues](http://www.ncbi.nlm.nih.gov/pubmed/26168230).) Its data include the number of rapes and attempted rapes that each man reported committing on successive surveys covering each year of college, which means the study’s researchers could have conducted analyses and published findings on (1) what percentage of rapists are repeat rapists, and (2) how many rapes they report committing. They have not done so, but the data are publicly available, so any researcher can conduct those analyses (or verify others’ analyses).
 
 For that study men were surveyed in September of their freshman year, and then at the ends of freshman, sophomore, junior, and senior years. (Because men dropped out every year, by senior year there were too few rapists to generate usable statistics.)
 
@@ -96,7 +96,7 @@ In summary, the available data on college rape – including from a sample of 95
 
 ## What Percentage of Rapists Admit to Raping During Multiple College Years?
 
-This is the key statistic reported by Swartout and colleagues in their [2015 paper in JAMA Pediatrics](http://www.ncbi.nlm.nih.gov/pubmed/26168230) – not the percentage of rapists who are repeat rapists, and not the percentage of rapes committed by repeat rapists.
+This is the key statistic reported by Swartout and colleagues in their [flawed](https://pubpeer.com/publications/522F0898657EB7AD5486F4DAC083CE) 2015&nbsp;[paper in JAMA Pediatrics](http://www.ncbi.nlm.nih.gov/pubmed/26168230) – not the percentage of rapists who are repeat rapists, and not the percentage of rapes committed by repeat rapists.
 
 For that paper Swartout and colleagues created a new and restrictive definition of “serial” rapist: a man who admits to committing at least one rape (on more than one survey) in more than one year (of college).
 
@@ -108,9 +108,9 @@ Also, and this is very important, the validity of their definition and of their 
 
 For these reasons, the one-in-four statistic reported in the Swartout et al. 2015 paper is not about “repeat rape” – or even about “serial rape” as many people understand that term. Their 25% statistic only refers to the percentage of rapists (most of whom are repeat rapists, as shown above) who admit to committing at least one rape in more than one year of college.
 
-Unfortunately, journalists have begun citing Swartout et al.’s one-fourth statistic right along with the two-thirds statistic, as if both pertain to “repeat rape” and are simply different values of the same statistic from different researchers measuring the same thing. Some have written that Swartout and colleagues’ paper and its one-in-four statistic contradict or even refute the Lisak and Miller paper and its findings that about two-in-three college rapists are repeat rapists who commit the great majority of rapes.
+Unfortunately, journalists have been citing Swartout et al.’s one-fourth statistic right along with the two-thirds statistic, as if both pertain to “repeat rape” and are simply different values of the same statistic from different researchers measuring the same thing. Some have written that Swartout and colleagues’ paper and its one-in-four statistic contradict or even refute the Lisak and Miller paper and its findings that about two-in-three college rapists are repeat rapists who commit the great majority of rapes.
 
-But as I have made clear, neither is true: Multiple research studies – including one of typical college students used by Swartout and his colleagues – have found that about two-thirds (or more) of college rapists are repeat rapists, and that those repeat rapists commit the great majority of rapes (and attempted rapes).
+But as I have made clear, neither is true: Multiple research studies – including the one of typical college students by Swartout and his colleagues – have found that about two-thirds (or more) of college rapists are repeat rapists, and that those repeat rapists commit the great majority of rapes (and attempted rapes).
 
 ## Summary and Conclusion
 
