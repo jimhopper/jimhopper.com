@@ -42,7 +42,7 @@ Please note that we can’t know whether the men’s responses are accurate or h
 
 ## Among College Men Who Rape, What Percentage Are Repeat Rapists?
 
-Research suggests that two-thirds or more of college men are repeat rapists – or at least acknowledge committing rape and admit to raping more than once.
+Research suggests that two-thirds or more of college men who commit rape are repeat rapists – or at least acknowledge committing rape and admit to raping more than once.
 
 Because so few men commit rape, only large studies can generate useful statistics on the percentage who are repeat rapists.
 
