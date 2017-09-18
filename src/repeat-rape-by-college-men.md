@@ -6,7 +6,7 @@ hotlines_sidebar: true
 nexturl: /the-brain/overview/
 nexttitle: The Brain
 prevurl: /sexual-assault/
-prevtitle: 'Sexual Assault & the Brain'
+prevtitle: Sexual Assault & the Brain
 og_image_path: /assets/images/header-sexual-assault-small.jpg
 show_translations: false
 ---
@@ -30,7 +30,7 @@ It presents the available evidence on the percentage of college men who acknowle
 
 How is “rape” defined here, and for most research studies?&nbsp;*Completed or attempted vaginal, anal or oral sexual intercourse through the threat or actual use of force, or by incapacitating the victim with drugs or alcohol.*(Note: penetration can be with any body part or object, not just the penis.)
 
-Attempted rape is included not only because it is a crime, but because it can be very traumatic and harmful to victims. Thus almost all researchers include attempted rape in their studies of rape perpetration and in their statistics on rapists.
+Attempted rape is included not only because it is a crime, but because it can be very traumatic and harmful to victims. Thus almost all researchers include attempted rape in their studies and statistics.
 
 ## What Percentage of College Men Admit to Committing Rape?
 
@@ -40,7 +40,7 @@ Importantly, these surveys do not use the words “rape” or “sexual assault.
 
 Please note that we can’t know whether the men’s responses are accurate or honest reflections of their actual behavior. Some men do not admit to themselves – let alone to researchers, even on an anonymous or confidential survey – that they have committed such acts even when they have. So these 4-16% statistics and the others presented here are likely underestimates to some extent.
 
-## Among College Men Who Rape, What Percentage Are <span class="underline">Repeat</span> Rapists?
+## Among College Men Who Rape, What Percentage Are Repeat Rapists?
 
 Research suggests that two-thirds or more of college men are repeat rapists – or at least acknowledge committing rape and admit to raping more than once.
 
