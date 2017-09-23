@@ -7,8 +7,8 @@ hotlines_sidebar: true
 description:
 nexturl: /child-abuse/recovered-memories/scientific-research
 nexttitle: Scientific Research on Recovered Memories
-prevurl: /child-abuse/recovered-memories/in-the-DSM
-prevtitle: Recovered Memories in the DSM
+prevurl: /child-abuse/recovered-memories/personal-questions
+prevtitle: Personal Questions About Recovered Memories
 published: false
 og_image_path: /assets/images/header-abuse-small.jpg
 ---
