@@ -1,6 +1,6 @@
 ---
 title: Brief Videos
-custom_title:
+custom_title: Brief Videos on Recovered Memories
 order: 5
 subcollection:
 hotlines_sidebar: true
