@@ -28,4 +28,6 @@ The videos are best watched in order, because the first lays out key principles 
 
 &lt;iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthekeepers%2Fvideos%2F812697038896022%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="false"&gt;&lt;/iframe&gt;
 
-<br>&lt;iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthekeepers%2Fvideos%2F845966958902363%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"&gt;&lt;/iframe&gt;
+&lt;div id="fb-root"&gt;&lt;/div&gt;<br>&nbsp; &lt;script&gt;(function(d, s, id) {<br>&nbsp; &nbsp; var js, fjs = d.getElementsByTagName(s)[0];<br>&nbsp; &nbsp; if (d.getElementById(id)) return;<br>&nbsp; &nbsp; js = d.createElement(s); js.id = id;<br>&nbsp; &nbsp; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";<br>&nbsp; &nbsp; fjs.parentNode.insertBefore(js, fjs);<br>&nbsp; }(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
+
+&nbsp; &lt;!-- Your embedded video player code --&gt;<br>&nbsp; &lt;div class="fb-video" data-href="https://www.facebook.com/thekeepers/videos/845966958902363/" data-width="400" data-show-text="false"&gt;<br>&nbsp; &lt;/div&gt;<br>&nbsp;
