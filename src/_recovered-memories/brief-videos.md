@@ -1,7 +1,7 @@
 ---
 title: Brief Videos
 custom_title: Brief Videos on Recovered Memories
-order: 5
+order: 3
 subcollection:
 hotlines_sidebar: true
 description:
@@ -20,6 +20,6 @@ It's a remarkable and inspiring documentary of several interwoven stories, inclu
 
 The 2-minute videos embedded below are meant to be watched in order, as the first lays out key principles applied in the second. (Click the sound icon to hear, not just see, my narration.)
 
-&lt;iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthekeepers%2Fvideos%2F812697038896022%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="false"&gt;&lt;/iframe&gt;<br>&nbsp;
+&lt;iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthekeepers%2Fvideos%2F812697038896022%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="false"&gt;&lt;/iframe&gt;<br>
 
 <br>&lt;iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthekeepers%2Fvideos%2F845966958902363%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"&gt;&lt;/iframe&gt;
