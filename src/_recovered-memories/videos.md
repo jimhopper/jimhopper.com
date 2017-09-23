@@ -5,8 +5,8 @@ order: 2
 subcollection:
 hotlines_sidebar: true
 description:
-nexturl: /child-abuse/statistics/
-nexttitle: Child Abuse Statistics
+nexturl: /child-abuse/recovered-memories/scientific-research
+nexttitle: Scientific Research on Recovered Memories
 prevurl: /child-abuse/recovered-memories/in-the-DSM
 prevtitle: Recovered Memories in the DSM
 published: false
