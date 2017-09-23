@@ -1,7 +1,7 @@
 ---
 title: Brief Videos
 custom_title: 2-Minute Videos on Recovered Memories
-order: 3
+order: 2
 subcollection:
 hotlines_sidebar: true
 description:
