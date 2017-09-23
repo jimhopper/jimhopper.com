@@ -9,7 +9,7 @@ nexturl: /child-abuse/recovered-memories/scientific-research
 nexttitle: Scientific Research on Recovered Memories
 prevurl: /child-abuse/recovered-memories/personal-questions
 prevtitle: Personal Questions About Recovered Memories
-published: false
+published: true
 og_image_path: /assets/images/header-abuse-small.jpg
 ---
 
