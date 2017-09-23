@@ -5,8 +5,8 @@ order: 1
 subcollection:
 hotlines_sidebar: true
 description:
-nexturl: /child-abuse/recovered-memories/videos
-nexttitle: 2-Minute Videos on Recovered Memories
+nexturl: /child-abuse/recovered-memories/scientific-research
+nexttitle: Scientific Research on Recovered Memories
 prevurl: /child-abuse/recovered-memories/
 prevtitle: Recovered Memories of Sexual Abuse
 published: true
