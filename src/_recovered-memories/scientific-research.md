@@ -7,8 +7,8 @@ hotlines_sidebar: true
 description:
 nexturl: /child-abuse/recovered-memories/in-the-media
 nexttitle: Recovered Memories in the Media
-prevurl: /child-abuse/recovered-memories/personal-questions
-prevtitle: Personal Questions About Recovered Memories
+prevurl: /child-abuse/recovered-memories/videos
+prevtitle: 2-Minute Videos on Recovered Memories
 published: true
 og_image_path: /assets/images/header-abuse-small.jpg
 ---
