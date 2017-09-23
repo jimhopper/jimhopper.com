@@ -1,7 +1,7 @@
 ---
 title: Scientific Research
 custom_title: Scientific Research on Recovered Memories
-order: 2
+order: 3
 subcollection:
 hotlines_sidebar: true
 description:
@@ -48,7 +48,6 @@ In 1995 I began offering web resources on recovered memories of sexual abuse, pr
 * Research evidence showing that it is NOT RARE for people who were sexually abused in childhood to go for many years, even decades, without having (recognizable or explicit) memories of the abuse. (People almost always have implicit memories of the abuse, that is, memories they did not realize were memories, for example physiological or emotional responses triggered by encountering things associated with the abuse, like being touched in a certain way). This body of work shows that claims to the contrary are contradicted by lots of scientific evidence.
 * Research and theoretical works by qualified specialists who increasingly agree that: a) traumatic and nontraumatic memories have some different characteristics; b) the construct of 'dissociation' better explains many traumatic memories, e.g., those involving fragmentary sensations and feelings which are disconnected from verbal narratives, and associated with amnesia and delayed recall. These works show that making claims about traumatic memory based on generalizations from research on nontraumatic memory, and focusing on the constructs of 'repression' and 'repressed memory,' can often be confusing distractions and misleading tactics.
 
-
 To accomplish these two goals, this section does not need to be comprehensive, nor up-to-date on the latest research. As you can see below, by the mid-1990s there was already a massive amount of evidence supporting the points above. However, I may occasionally make additions to this page, and am always open to suggestions.
 
 ## Empirical Evidence, Psychological Constructs and Scientific Progress
@@ -86,14 +85,12 @@ When people say these things, we try to describe and explain what they are repor
 * 'repression'
 * 'dissociation'
 
-
 Four crucial points:
 
 1. 'Amnesia' is a *descriptive* construct. It directs our attention to the condition of being unable to remember experiences like childhood sexual abuse, even when one encounters things that would be expected to trigger memory retrieval or recall.
 2. 'Repression' and 'dissociation' are *explanatory* constructs. They point to hypothesized psychological mechanisms that may be responsible for the condition of amnesia.
 3. All constructs exist on a *continuum* from descriptive to explanatory. When it comes to empirical evidence of traumatic and recovered memories, dissociation is more descriptive of more empirical evidence than is repression.
 4. The *persistence* and the *accuracy* of a memory are completely separate issues, and not keeping them separate as constructs leads to considerable confusion. People can have memories that are largely true or largely false whether or not those memories have been continuously available or were not recalled for a period of years or even decades. Thus it is very misleading to talk about 'recovered versus false memories of abuse' or to present these as mutually exclusive categories.
-
 
 *It is not rare for people to say that at some point they came to remember a past abuse experience which they had not previously remembered.*
 
@@ -104,7 +101,6 @@ When people say things along these lines, again we use psychological constructs 
 * "Before beginning therapy, the patient experienced delayed recall."
 * "Some research participants had a return of previously repressed memories."
 * "Some participants in the study made new associative linkages among dissociated memory fragments, and integrated these with their verbal and narrative autobiographical memories."
-
 
 In short, we use psychological constructs to describe and explain people's inabilities to recall and their recovered memories of child abuse – which are far too varied and complex to be captured by any one construct alone. And we use *different* constructs to describe memories along a continuum from continuous to recovered, and along a continuum from accurate to inaccurate.
 
@@ -194,7 +190,7 @@ This October 1995 special issue is an important and rich resource. I provide an 
 
 Excerpt: "The present issue of *JTS* is dedicated to the topic of research on traumatic memory. While a few of the articles fall slightly outside of this overall designation, all articles were seen to be pertinent to clinicians and scholars who study and treat individuals with a history of traumatic exposure. The issue is sparked, to some extent, by the controversy raging within and between mental health professionals and academics about whether individuals can 'forget' traumatic events in their pasts, and whether they can 'remember' events that never took place. While the issue is not focused on this controversy per se, it was undertaken to inform clinicians and researchers about a variety of topics related to traumatic memory, 'recovered' or otherwise" (p.501).
 
-**van der Kolk, B., & Fisler, R.&nbsp;****[Dissociation and the fragmentary nature of traumatic memories: Overview and exploratory study.](/pdf/van_der_Kolk_Fisler1995.pdf)**
+**van der Kolk, B., & Fisler, R.****[Dissociation and the fragmentary nature of traumatic memories: Overview and exploratory study.](/pdf/van_der_Kolk_Fisler1995.pdf)**
 
 Abstract: "Since trauma arises from an inescapable stressful event that overwhelms people's coping mechanisms, it is uncertain to what degree the results of laboratory studies of ordinary events are relevant to the understanding of traumatic memories. This paper reviews the literature on differences between recollections of stressful and of traumatic events. It then reviews the evidence implicating dissociation as the central pathogenic mechanism that gives rise to posttraumatic stress disorder (PTSD). A systematic exploratory study of 46 subjects with PTSD indicated that traumatic memories were retrieved, at least initially, in the form of dissociated mental imprints of sensory and affective elements of the traumatic experience: as visual, olfactory, affective, auditory, and kinesthetic experiences. Over time, subjects reported the gradual emergence of a personal narrative that can be properly referred to as 'explicit memory.' The implications of these findings for understanding the nature of traumatic memories are discussed."
 
@@ -548,7 +544,6 @@ Here's an outline of the Archive's Corroborated Cases of Recovered Memory:
 * 25 Clinical Cases and other Academic/Scientific Case Studies
 * 33 Other Corroborated Cases of Recovered Memory
 
-
 ## Elizabeth Loftus
 
 University of Washington psychologist Elizabeth Loftus is an accomplished researcher with expertise in eyewitness testimony, particularly how the memories of crime witnesses can be distorted by post-event questioning. Loftus has been a prominent spokesperson for the False Memory Syndrome Foundation, and her views have by and large been very well received by the mass media in the United States. Loftus has also testified an expert witness on the behalf of people accused of child abuse on the basis of recovered memories. She has co-authored a book entitled *The Myth of Repressed Memory.*
@@ -560,7 +555,6 @@ Unfortunately, many reporters and journalists have failed to critically evaluate
 1. Loftus herself conducted and published a study in which nearly *one in five* women who reported childhood sexual abuse also reported completely forgetting the abuse for some period of time and recovering the memory of it later.
 2. Loftus misrepresented the facts of a legal case in a scholarly paper and, after finally apologizing to the victim of her misrepresentations, continued to promote the article with falsehoods. (See [Consider the Evidence for Elizabeth Loftus' Scholarship and Accuracy](http://www.rememberingdangerously.com/), by Jennifer Hoult, whose case Loftus misrepresented.)
 3. Loftus was aware that those who study traumatic memory had by the early 1990s, based on a great deal of research and clinical experience, used the construct of dissociation to account for the majority of recovered memories. However, she continued to focus on and attack 'repression' and 'repressed memories,' which has the effect of confusing and misleading many people.
-
 
 **Here is the study almost never mentioned by Dr. Loftus or the media:**
 
