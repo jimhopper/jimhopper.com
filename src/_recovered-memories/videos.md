@@ -16,13 +16,13 @@ og_image_path: /assets/images/header-abuse-small.jpg
 
 In the summer of 2017, I was asked to write scripts, brainstorm graphics, and help edit two videos on recovered memories for the Facebook page of [The Keepers](https://www.facebook.com/thekeepers/), a&nbsp;*Netflix* documentary.
 
-It's a remarkable and inspiring documentary on several interwoven stories, including a priest's brutal sexual abuse of high school; the apparently related murder of a young nun, which was never adequately investigated by police, the Church, or anyone else, until 40 years later when two of the nun's early 1970s students devoted themselves full-time to finding justice for their beloved teacher; and one of the priest's victims, who recovered memories of his abuse in the 1990s.
+Seven remarkable and inspiring episodes interweave several stories spanning decades in Baltimore, including a priest's brutal sexual abuse of high school girls; the apparently related murder of a young nun, which was never adequately investigated by police, the Church, or anyone else, until 40 years later when two of the murdered nun's early-1970s students devoted themselves full-time to finding justice for their beloved teacher; and one of the priest's victims, who recovered memories of abuse in the 1990s.
 
-Of course no 2-minute videos can do justice to the complexities of "how memory works" and how people come to lose access to memories and "recovered" them years or even decades later. But I believe these videos reflect the relevant memory and neuroscience research, and decades of clinical experience, supporting this description of the process:
+2-minute videos can't do justice to the complexities of "how memory works" and how people come to lose access to memories and "recovered" them years or even decades later. But I believe these videos reflect the relevant memory and neuroscience research, and decades of clinical experience, consistent with this process:
 
-Soon after the abuse (or other traumatic event), there is a period of intentional suppression. This is eventually followed by a lack of habitual that is automatic and habitual, such that even upon encountering what we'd think are great "retrieval cues" there's still no recall. But at some point, perhaps years or decades later, one encounters just the right cues, in just the right context, to make just the right brain connections to finally retrieve pieces traumatic memory into awareness.
+Soon after the abuse (or other traumatic event), there is a period of intentional suppression, just as we all push unwanted memories out of mind. This is eventually followed by a pervasive lack of retrieval of those abuse memories that has become automatic and habitual, such that even upon encountering what we'd *think* are great "retrieval cues," there's still no recall. But at some point, perhaps years or decades later, one encounters just the right cues, in just the right context, to make just the right brain connections to finally retrieve pieces traumatic memory into awareness.
 
-If you've experienced recovered memories, see if these videos fit with your experience, or not, and feel free to let me know.
+If you've experienced recovered memories, see if these videos fit with your unique experience - or not - and feel free to let me know.
 
 The videos are best watched in order, because the first lays out key principles that are applied in the second. (Click the sound icon to hear my narration.)
 
