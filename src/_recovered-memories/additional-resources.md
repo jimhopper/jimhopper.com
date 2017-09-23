@@ -1,7 +1,7 @@
 ---
 title: Additional Resources
 custom_title:
-order: 5
+order: 6
 subcollection:
 hotlines_sidebar: true
 description:
@@ -25,7 +25,6 @@ The [Recovered Memory Project](http://blogs.brown.edu/recoveredmemory/) is main
 * 53 Cases from Legal Proceedings
 * 25 Clinical Cases and other Academic/Scientific Case Studies
 * 33 Other Corroborated Cases of Recovered Memory
-
 
 ## Amnesia and Recovered Memories for Other Traumas
 
