@@ -17,7 +17,7 @@ og_image_path: /assets/images/header-happiness-small.jpg
 on this page
 {: .onpage__header}
 
-* [Imperfect World, Good Models](#imperfect-world-good-models)
+* [Imperfect Word, Good Models](#imperfect-world-good-models)
 * [Herman’s Stages of Recovery](#hermans-stages-of-recovery)
 * [Hunter’s Stages of Recovery](#hunters-stages-of-recovery)
 {: .onpage}
@@ -29,7 +29,6 @@ First, let’s address that imperfect term, ‘recovery.’
 * I know it can turn people off, especially some men.
 * Here I simply mean ‘gradual healing,’ a standard meaning found in any dictionary.
 * I am not suggesting that you view yourself as ‘in recovery,’ or in any other way make this concept part of your identity (though some may choose to do so).
-
 
 Now, for the models. There are two that describe ‘stages of recovery’ people go through to overcome traumatic childhood experiences and other traumas.
 
@@ -53,7 +52,6 @@ The problems may include:
 * Self-harming behaviors (cutting, burning, etc.)
 * Dissociation (spacing out, blanking out, losing time, etc.)
 
-
 ### Stage 1
 
 The first stage of dealing with and overcoming such problems, and of any helpful therapy or counseling, is about:
@@ -64,7 +62,6 @@ The first stage of dealing with and overcoming such problems, and of any helpful
 * Tapping into and developing one’s own inner strengths, and any other potentially available resources for healing.
 * Learning how to regulate one’s emotions and manage symptoms that cause suffering or make one feel unsafe.
 * Developing and strengthening skills for managing painful and unwanted experiences, and minimizing unhelpful responses to them.
-
 
 Most important, the key to healing from traumatic experiences in childhood is achieving these ‘stage-one’ goals of personal safety, genuine self-care, and healthy emotion-regulation capacities. Once these have become standard operating procedures, great progress and many new choices become possible.
 
@@ -80,7 +77,6 @@ Depending on the person, the first stage of treatment may also involve:
 * Taking medication to reduce anxiety and/or depressive symptoms, for example serotonergic reuptake inhibitors (SSRIs) like sertraline (Zoloft) or paroxetine (Paxil).
 * Participating in Dialectical Behavior Therapy (DBT), a treatment for people having serious problems with tolerating and regulating emotions, interpersonal effectiveness, and/or self-harming behaviors.
 
-
 ### Common to All Stages
 
 Throughout all stages of treatment, it is often necessary to address psychological themes and ‘dynamics’ related to one’s history of unwanted or abusive experiences.
@@ -91,7 +87,6 @@ As discussed in [Consequences of Abuse](/child-abuse/consequences-of-abuse/), so
 * Shame and guilt
 * Distrust
 * Reenacting abusive patterns in current relationships
-
 
 In the first stage of treatment, these themes and dynamics must be addressed when they are obstacles to safety, self-care, and regulating one’s emotions and behavior. Therapy can help with recognizing habitual behavior patterns, beliefs, and motivations that maintain self-defeating and self-destructive behaviors outside of conscious awareness or reflection.
 
@@ -106,7 +101,6 @@ The main work of stage two involves:
 * Reviewing and/or discussing memories to lessen their emotional intensity, to revise their meanings for one’s life and identity, etc.
 * Working through grief about unwanted or abusive experiences and their negative effects on one’s life.
 * Mourning or working through grief about good experiences that one did <u>not</u>&nbsp;have, but that all children deserve.
-
 
 After establishing a solid foundation of understanding, safety, stability and self-regulation skills one can decide – mindful of the potential pain and risks involved – whether or not to engage in the work of stage two.
 
@@ -167,7 +161,6 @@ Below are some common things said by men in this stage of recovery, from chapter
 * ‘I can’t deny it happened, but it’s my fault that it happened.’
 * ‘She was just teaching me about sex.’
 * ‘I can’t do anything about it now. There’s no sense in even talking about it.’
-
 
 One last observation, and a suggestion from Hunter:
 
