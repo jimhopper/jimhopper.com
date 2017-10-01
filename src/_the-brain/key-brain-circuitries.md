@@ -38,7 +38,7 @@ The circuitries that I focus on here are among the most studied in neuroscience.
 
 I focus on these particular circuitries for a few important reasons. First, unlike many other aspects of brain function, the activities of these circuitries are (at least partly) *accessible to conscious awareness*. Second, because we can become aware of their functioning, *we can exercise substantial choice* over how we use these circuitries in our lives. And third, familiarity with these circuitries provides an *essential foundation* for understanding – and harnessing – basic brain and psychological processes that can bring either suffering or healing and genuine happiness.
 
-For those who want the scientific research backing up my teachings on these circuitries, one place to start is a [book chapter of mine](/pdf/Hopper_2015_Harnessing_the_Seeking_Satisfaction_and_Embodiment_Circuitries.pdf) that has citations to key research and a full references section. (However, those citations are not comprehensive and more research is continually being published.)
+For those who want the scientific research backing up my teachings on these circuitries, one place to start is a [book chapter of mine](/pdf/Hopper_2015_Harnessing_the_Seeking_Satisfaction_and_Embodiment_Circuitries.pdf) that has citations to key research and a full references section. (Those citations are not comprehensive and more research is continually being published.)
 
 Those who know something about the brain, and perhaps are familiar with the work of Daniel Siegel on interpersonal neurobiology, will see that I don't organize things according to the 'triune' model of brain stem, 'limbic system' and prefrontal cortex. There are other differences in my approach as well.
 
@@ -46,17 +46,17 @@ My *key circuitries* approach, while compatible with and complementary to those 
 
 I focus on six key brain circuitries, beginning with the circuitry of fear, which you have probably heard about before (at least one key structure, the amygdala).
 
-Even more important, however, are the circuitries of seeking, satisfaction and embodiment. Although you probably haven't heard of them before, I hope you will give me a chance to help you see why they are absolutely essential circuitries for us to understand and take responsibility for, especially when it comes to healing and genuine happiness.
+Even more important, however, are the circuitries of seeking, satisfaction, and embodiment. Although you probably haven't heard of them before, I hope you'll give me a chance to explain why they're absolutely essential circuitries to understand - and take responsibility for - especially when it comes to finding healing and genuine happiness.
 
 ## Fear Circuitry
 
-The brain’s *fear circuitry* includes the amygdala and other brain regions (e.g., hypothalamus and periaqueductal gray). This is one of the best-known and most-studied circuitries in neuroscience, and a major focus of research on psychological trauma and PTSD (areas of expertise for me).
+The brain’s *fear circuitry* includes the amygdala and other brain regions (e.g., hypothalamus and periaqueductal gray). This is one of the best-known and most-studied circuitries in neuroscience, and a major focus of research on psychological trauma and PTSD (areas of my expertise).
 
 The fear circuitry triggers and implements extreme fear responses, but also less extreme avoidance responses associated with lesser fears, or just things that we (i.e., our brains) find aversive.
 
 More extreme fear responses implemented by the fear circuitry include freezing, a racing heart, rapid breathing, fight or flight behaviors, or even paralysis and passing out. (I regularly teach about how the fear circuitry largely governs responses during sexual assault, for example, [Why Many Rape Victims Don't Fight or Yell](http://www.washingtonpost.com/news/grade-point/wp/2015/06/23/why-many-rape-victims-dont-fight-or-yell/) and [Neurobiology of Trauma & Sexual Assault](https://www.youtube.com/watch?v=dwTQ_U3p5Wc).)
 
-But the fear circuitry isn’t only for what scares or terrifies us. It is triggered by *anything* we find unpleasant and want to avoid. Indeed, the most common method for studying the fear circuitry in animals uses relatively mild but aversive foot shocks, not terrifying or traumatic experiences, to evoke and study fear responses and their brain bases. Thus we can also understand this as the *fear/aversion circuitry*.
+But the fear circuitry isn’t only for what scares or terrifies us. It's triggered by *anything* we find unpleasant and want to avoid. Indeed, the most common method for studying the fear circuitry in animals uses relatively mild but aversive foot shocks, not terrifying or traumatic experiences, to evoke and study fear responses and their brain bases. Thus we can also understand this as the *fear/aversion circuitry*.
 
 ![](/uploads/versions/fear_circuitry-jpg---x----400-330x---.jpg)
 
@@ -64,7 +64,7 @@ In fact, the fear circuitry is constantly on, at least idling to some extent, li
 
 Importantly, experiences that trigger the fear circuitry, unless they elicit a purely reflexive response, invariably recruit the brain’s *seeking circuitry* (described next). Our brains are constantly and automatically – within milliseconds – 'tagging' some experiences and things as unpleasant and unwanted, thus as experiences and things that we automatically *seek to avoid and escape*.
 
-When feared and unwanted emotions like sadness, loneliness or shame get triggered – however much we notice them or not – our brains automatically seek escape from them, sometimes into addictive experiences. And for some people who have been hurt in important relationships, especially as children, even 'positive' experiences with other people, like being offered genuine affection, caring or love, can be unwanted and trigger fear and attempts to escape.
+When feared and unwanted emotions like sadness, loneliness or shame get triggered (however much we notice them or not) our brains automatically seek escape from them, sometimes into addictive experiences. And for some people who have been hurt in important relationships, especially as children, even 'positive' experiences with other people, like being offered genuine affection, caring or love, can be unwanted and trigger fear and attempts to escape.
 
 In short, our fear circuitry is always operating and continually influencing how we respond to unpleasant and unwanted experiences, however large or small. And, by repeatedly triggering the brain's seeking circuitry, it is continually helping to determine which wants and hopes are driving our thoughts and behaviors.
 
@@ -74,7 +74,7 @@ Unlike the amygdala and the fear circuitry, you probably haven't heard of the *s
 
 The seeking circuitry is part of the brain’s 'reward circuitry,' which you may have heard of because, like the circuitry of fear, it is one of the most studied and best established circuitries in neuroscience (thanks to decades of research funded by the National Institute on Drug Abuse).
 
-Most neuroscientists still just use the term 'reward circuitry,' even though it has subcomponents, including the seeking circuitry. But a few scientists have given names to this circuitry, based on their different views of brain functioning overall and of this circuitry’s roles in behavior and emotion. The name '[seeking](/pdf/AlcaroPanksepp2011_SEEKING.pdf)' was coined by [Jaak Panksepp](https://www.amazon.com/Archaeology-Mind-Neuroevolutionary-Interpersonal-Neurobiology/dp/0393705315/ref=nosim/?tag=jimhoppercom-20), an influential neuroscientist who has focused on (among other things) how human and animal brains are innately driven (by the seeking circuitry) to *engage* with the world (not to 'process information').
+Most neuroscientists still just use the term 'reward circuitry,' even though it has subcomponents, including the seeking circuitry. But a few scientists have given names to this circuitry, based on their different views of brain functioning overall and of this circuitry’s roles in behavior and emotion. The name '[seeking](/pdf/AlcaroPanksepp2011_SEEKING.pdf)' was coined by [Jaak Panksepp](https://www.amazon.com/Archaeology-Mind-Neuroevolutionary-Interpersonal-Neurobiology/dp/0393705315/ref=nosim/?tag=jimhoppercom-20), an influential neuroscientist who focused on (among other things) how human and animal brains are innately driven, by the seeking circuitry, to *engage* with the world, not passively 'process information').
 
 Researchers have found that the seeking circuitry is what enables us to want and seek [*anything* that involves effortful activity](/pdf/SalamoneCorrea2012.pdf), whether conscious and deliberate effort, or automatic and habitual effort based on learning. It could be a drink of water or your next meal. It could be a new dress or shirt, a new pair of shoes or watch, or the latest technology toy. It could be an affectionate comment from a girlfriend, boyfriend, spouse or partner; praise from a co-worker or supervisor; or accomplishing a life goal. Or the next pain pill, drink of alcohol, hit of crack, or porn video.
 
