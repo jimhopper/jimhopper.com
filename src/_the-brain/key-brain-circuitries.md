@@ -86,19 +86,19 @@ Because the seeking circuity is the brain circuitry that allows us to want and p
 
 When we strive to fulfill our highest moral, religious and spiritual values and goals, this circuitry helps us do it. This does not mean that morality, religion and spirituality are 'just brain processes.' It only means that, as embodied beings with brains, whenever we long for and seek anything that requires effort, however noble and sublime, there's a brain circuitry – this seeking circuitry – that biologically enables and implements our longing and seeking.
 
-For people struggling with a great deal of suffering, their seeking circuitry can get overly focused on – even enslaved to – quick fixes. These fixes can be intoxicated states brought on by alcohol or drugs. They can be intoxicating sexual experiences, or power trips, or sexual power trips.
+For people struggling with a great deal of suffering, their seeking circuitry can get overly focused on – even enslaved to – quick fixes. These fixes can be intoxicated states brought on by alcohol or drugs. They can be intoxicating sexual experiences, power trips, or sexual power trips.
 
-Most importantly, a quick fix is *any experience that is sought for immediate escape from suffering*. As we can see in ourselves, in our family members, in our friends and co-workers, and in the daily parade of unhealthy and downright destructive 'it seemed like a good idea at the time' behaviors we see on TV and the net, there's no limit to what people will do to escape briefly from physical, emotional and spiritual suffering.
+Most importantly, a quick fix is *any experience that is sought for immediate escape from suffering*. As we can see in ourselves, in our family members, in our friends and co-workers, and in the daily parade of unhealthy and downright destructive 'it seemed like a good idea at the time' behaviors we see on TV and the internet, there's no limit to what people will do to escape briefly from physical, emotional, and spiritual suffering.
 
-Such quick fixes include minor unhealthy behaviors like eating or drinking to much, more problematic ones like lashing out at someone in anger to escape feelings of shame or powerlessness, and extreme self-harming behaviors like cutting or burning one's body to reduce inner turmoil.
+Such quick fixes include minor unhealthy behaviors like eating or drinking too much, more problematic ones like lashing out at someone in anger to escape feelings of shame or powerlessness, and extreme self-harming behaviors like cutting or burning one's body to reduce inner turmoil.
 
-Quick fixes also include habitual 'defense mechanisms' like ruminating, mindlessly distracting ourselves with things on a screen or otherwise spacing out. Such habitual behaviors harm us less obviously, by disconnecting us from the potential fullness of our current experience (which can prevent us from responding to unwanted experiences in healthy ways).
+Quick fixes also include habitual 'defense mechanisms' like ruminating, mindlessly distracting ourselves with things on a screen or otherwise spacing out. Those habitual behaviors harm us less obviously, by disconnecting us from the potential fullness of our current experience (which can prevent us from responding to unwanted experiences in healthy ways).
 
-The many ways we may ignore or deny what’s actually happening around and within us all can be understood as *brief escapes or quick fixes that involve the seeking circuitry.* Such escapes tend to be not only brief, but also addictive, and unfulfilling in any lasting way – and many cause more problems than they solve.
+The many ways we may ignore or deny what’s actually happening around and within us all can be understood as *brief escapes or quick fixes that involve the seeking circuitry.* Such escapes tend to be not only brief, but also addictive, and unfulfilling in any lasting way. Many cause more problems than they solve.
 
-The seeking circuitry is also involved in the pleasures of expecting and seeking what we want, and the excitement of both. For many people, this is the main or only kind of pleasure or happiness they know, that of anticipation. We all know some people for whom this is true. Maybe it describes you, if not now then at some time in your life.
+The seeking circuitry is also involved in the pleasures of expecting and pursuing what we want, and the excitement of both. For many people, this is the main or only kind of pleasure or happiness they know, that of anticipation. We all know some people for whom this is true. Maybe it describes you, if not now then at some time in your life.
 
-But this 'anticipatory pleasure' of expecting and seeking is only one kind of pleasure, and not a particularly fulfilling one; it’s different from the pleasure of satisfaction that comes from getting what we’ve sought. As we all know, there’s a difference between the pleasure of anticipating eating a bowl of ice cream and the pleasure of actually eating it. The same is true of any addictive substance or behavior. (Some substances, however, including cocaine and methamphetamine, can be addictive precisely because they increase the pleasure of seeking itself.)
+But this 'anticipatory pleasure' of expecting and seeking is only one kind of pleasure, and not a particularly fulfilling one. It’s different from the pleasure of satisfaction that comes from getting what we’ve sought. As we all know, there’s a difference between the pleasure of anticipating eating a bowl of ice cream and the pleasure of actually eating it. The same is true of any addictive substance or behavior. (Some substances, however, including cocaine and methamphetamine, can be addictive precisely because they increase the pleasure of seeking itself.)
 
 The seeking circuitry also shapes the activity of the 'default mode circuitry.' That's the brain circuitry, described below, which underlies all those thoughts, daydreams, memories and plans that are constantly running through our heads – and often distracting us from what we're trying to focus on.
 
@@ -106,7 +106,7 @@ When we step back and observe all that stuff running through our minds, we can't
 
 Just as the amygdala plays a central role in the fear circuitry, the nucleus accumbens does in the seeking circuitry. Yet detailed knowledge of the brain areas that make up the seeking circuitry is not necessary to appreciate the central roles it plays in all of our lives.
 
-In summary, the seeking circuitry is constantly active, often in response to the fear circuitry getting triggered. And it is constantly driving our thoughts, feelings, imaginations and behaviors.
+In summary, the seeking circuitry is constantly active, often in response to the fear circuitry getting triggered. And it is constantly driving our thoughts, feelings, imaginings, and behaviors.
 
 Indeed, the central role of seeking in human experience and behavior, and the importance of taking responsibility for what one seeks and focusing one’s seeking on what truly promotes human happiness and well-being, have long been pointed out by the world's major philosophical and religious traditions. We simply cannot understand ourselves as individuals, families, communities and cultures – especially what brings us suffering and happiness – without investigating, with honesty and discipline, what our seeking circuitries are focused upon and why.
 
@@ -114,7 +114,7 @@ Indeed, the central role of seeking in human experience and behavior, and the im
 
 Just as important as the seeking circuitry is the *satisfaction circuitry*. That's the name I've given to the other key component of the brain's 'reward circuitry.'
 
-Extensive research has established that chemicals in the brain called opioids (and their receptors on brain cells) are centrally involved in feelings of satisfaction and contentment, as well as feelings of connection with others. As Panksepp and Biven have written, opioids acting on opioid receptors (specifically *mu* opoiod receptors) not only take away feelings of pain but “send messages of pleasant satisfaction in the brain” ([2012](http://www.amazon.com/Archaeology-Mind-Neuroevolutionary-Interpersonal-Neurobiology/dp/0393705315/), p.25).
+Extensive research has established that chemicals in the brain called opioids (and their receptors on brain cells) are centrally involved in feelings of satisfaction and contentment, as well as feelings of connection with others. As Panksepp and Biven have written, opioids acting on opioid receptors (specifically *mu* opioid receptors) not only take away feelings of pain but “send messages of pleasant satisfaction in the brain” ([2012](http://www.amazon.com/Archaeology-Mind-Neuroevolutionary-Interpersonal-Neurobiology/dp/0393705315/), p.25).
 
 This opioid circuitry of satisfaction can give us the deeply fulfilling pleasures of feeling happy and loved. Any time we feel contented, this circuitry is involved. Whenever we feel [comfort or joy](/pdf/Loseth2014.pdf). Such experiences, of course, are minimal or missing in the lives of people who are suffering greatly, including those struggling with major trauma, or major anxiety, depression and/or addiction. As noted above, sometimes the only feelings of pleasure that severely suffering people have are those of seeking, anticipating and experiencing substance-induced highs or other quick-fix escapes.
 
@@ -126,7 +126,7 @@ Like the brain’s own opiates, those from outside the body – whether injected
 
 ## Embodiment Circuitry
 
-Another extensively studied and well-established brain circuitry is what I call the *embodiment circuitry*. The more commonly term used in neuroscience is 'interoceptive' circuitry ([interoception](/pdf/Farb_et_al_2015.pdf), broadly defined, refers to the process of receiving, accessing and appraising signals originating within the body).&nbsp;*Embodiment* is a less technical term and clearly indicates that this circuitry allows us to know what it feels like to be 'in our bodies.'
+Another extensively studied and well-established brain circuitry is what I call the *embodiment circuitry*. The more commonly used term in neuroscience is 'interoceptive' circuitry ([interoception](/pdf/Farb_et_al_2015.pdf), broadly defined, refers to the process of receiving, accessing and appraising signals originating within the body).&nbsp;*Embodiment* is a less technical term and clearly indicates that this circuitry allows us to know what it feels like to be 'in our bodies.'
 
 A key part of the embodiment circuitry is the insular cortex or insula, a cortical region that brings together all information coming from the body (e.g., sensations of movement, touch, tension, pressure, warmth, etc.).
 
