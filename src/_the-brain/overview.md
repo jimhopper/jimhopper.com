@@ -22,7 +22,7 @@ Here you'll find practical knowledge and insights about your brain that can help
 * Thoughts
 * Emotions
 * Behaviors
-* Values and motives that shape your thoughts, emotions, and behaviors
+* Values and motivations that shape your thoughts, emotions, and behaviors
 
 You'll find guidance – grounded in cutting-edge scientific knowledge and the wisdom of humanity's great religious and spiritual traditions – for healing suffering and bringing genuine happiness into daily life.
 
