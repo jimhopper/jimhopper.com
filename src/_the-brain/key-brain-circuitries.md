@@ -126,21 +126,21 @@ Like the brain’s own opiates, those from outside the body – whether injected
 
 ## Embodiment Circuitry
 
-Another extensively studied and well-established brain circuitry is what I call the *embodiment circuitry*. The more commonly used term in neuroscience is 'interoceptive' circuitry ([interoception](/pdf/Farb_et_al_2015.pdf), broadly defined, refers to the process of receiving, accessing and appraising signals originating within the body).&nbsp;*Embodiment* is a less technical term and clearly indicates that this circuitry allows us to know what it feels like to be 'in our bodies.'
+Another extensively studied and well-established brain circuitry is what I call the *embodiment circuitry*. The more commonly used term in neuroscience is 'interoceptive' circuitry ([interoception](/pdf/Farb_et_al_2015.pdf), broadly defined, refers to the process of receiving, accessing, and appraising signals originating within the body).&nbsp;*Embodiment* is a less technical term and clearly indicates that this circuitry allows us to know how it feels to be 'in our bodies.'
 
 A key part of the embodiment circuitry is the insular cortex or insula, a cortical region that brings together all information coming from the body (e.g., sensations of movement, touch, tension, pressure, warmth, etc.).
 
-Information from the body includes unpleasant and unwanted sensations – like those of pain, fear, anxiety, sadness, or withdrawal from an addictive substance. Such body sensations trigger fear, aversion and seeking (to escape).
+Information from the body includes unpleasant and unwanted sensations – like those of pain, fear, anxiety, sadness, or withdrawal from an addictive substance. Such body sensations trigger fear, aversion, and seeking (to escape).
 
 Information from the body also includes pleasant and wanted sensations, including those associated with substance intoxication and behaviors that people find addicting. Such sensations, processed by the embodiment circuitry, can be strong drivers of craving, whether for addictive substances, food, or behaviors including gambling, shopping and sex. For example, [researchers found](/pdf/Naqvi2007.pdf) that when people addicted to cigarettes suffered brain damage, damage to the insula was much more likely than damage to other brain areas to be followed by quitting smoking – suddenly, completely, and without even trying. Asked why, those with damage to this key part of the embodiment circuitry said things like, 'My body forgot the urge to smoke.'
 
 ![](/uploads/versions/embodiment_circuitry---x----400-330x---.jpg)
 
-Awareness of the embodiment circuitry is important and helpful, because how we experience our bodies is an important dimension of our lives, and because different people have differing degrees of awareness of bodily sensations, including those that go with emotions. For example, it is not uncommon for traumatized people to suffer from emotional numbing and dissociation. Some say they have no idea what it's like to feel an emotion in their bodies. And researchers (including my colleagues and I) have found that the less people feel emotions in their bodies, the less activity there is in insular cortex regions that are part of the embodiment circuitry.
+Awareness of the embodiment circuitry is important and helpful, because how we experience our bodies is an important dimension of our lives, and because different people have differing degrees of awareness of bodily sensations, including those that accompany emotions. For example, it's not uncommon for traumatized people to suffer from emotional numbing and dissociation. Some say they have no idea what it's like to feel an emotion in their bodies. And researchers (including my colleagues and I) have found that the less people feel emotions in their bodies, the less activity there is in insular cortex regions that are part of the embodiment circuitry.
 
 The importance of the embodiment circuitry cannot be overestimated. Much of human suffering includes and is driven by unpleasant and unwanted body sensations. All addictions involve attempts, at least in part, to escape from unpleasant and unwanted bodily sensations and to embrace pleasant and wanted bodily sensations.
 
-And all the truly good things in life include bodily sensations too (however aware of them we are). By 'good things in life' I'm not referring to luxury goods or the 'pleasures of the senses' (nor am I judging such things). I am referring to universally recognized goods that always promote well-being, including kindness, compassion, love and peace. As discussed in [Cycles of Suffering, Healing & Happiness](/the-brain/cycles/), pleasant body sensations, especially of satisfying and loving experiences, can be powerful antidotes to fear and craving for escape.
+And all the truly good things in life include bodily sensations too (however aware of them we are). By 'good things in life' I'm not referring to luxury goods or the 'pleasures of the senses' (nor am I judging such things). I am referring to universally recognized goods that always promote well-being, including kindness, compassion, love, and peace. As discussed in [Cycles of Suffering, Healing & Happiness](/the-brain/cycles/), pleasant body sensations, especially of satisfying and loving experiences, can be powerful antidotes to fear and craving for escape.
 
 ## Default Mode Circuitry
 
@@ -148,13 +148,13 @@ Another key brain circuitry that I focus on is the *default mode circuitry*. Thi
 
 When we are not focused on a particular task, our minds tend to wander. This wandering includes running through plans or scenarios in our heads, and imagining things we want to happen and do not want to happen.
 
-Brain researchers call this the 'default mode' of the human brain, and for good reason: it’s what our brains do whenever we’re 'resting' – or simply not fully absorbed in anything else.
+Brain researchers call this the 'default mode' of the human brain, and for good reason: it’s what our brains do, by default, whenever we’re 'resting' or simply not fully absorbed in anything else.
 
 ![](/uploads/versions/default_circuitry---x----400-330x---.jpg)
 
-The brain’s default mode circuitry (or network) has been mapped. While there are technical obstacles to measuring small bouts of seeking circuitry activity during mind wandering, researchers have shown connections between the default mode and seeking circuitries.
+The brain’s default mode circuitry (or network) has been mapped. And while there are technical obstacles to measuring small bouts of seeking circuitry activity during mind wandering, researchers have shown connections between the default mode and seeking circuitries.
 
-And as noted above, we don't need brain research to know this: when we (mindfully) observe our own daydreams, memories and plans – our default mode activity, that is – we see how much they revolve around seeking and experiencing 'rewards' in our imaginations. Future yummy meals, fun weekends, vacations. Future achievements, praise, vindications.
+We certainly don't need brain research to know this: when we (mindfully) observe our own daydreams, memories and plans – that is, our default mode activity – we see how much they revolve around seeking and experiencing 'rewards' in our imaginations. Future yummy meals, fun weekends, vacations. Future achievements, praise, vindications.
 
 All those little reward scenarios we keep seeking and experiencing in our heads – of getting or keeping things we want, and escaping from things we don’t want or wish hadn’t already happened – all are manifestations of the default mode circuitry in action.
 
@@ -176,20 +176,20 @@ The executive functions of the prefrontal cortex can also help us to resist and 
 
 Some of these executive functions are called 'self-regulation capacities.' Others play central roles in our capacities to attune to others and relate to them in healthy and fulfilling ways (the main focus of Dan Siegel's interpersonal neurobiology). We need these self-regulatory executive functions to heal from the effects of hurtful and harmful past experiences, and to become free of addictions.
 
-Importantly, we develop – and can increase – these executive (circuitry) functions primarily *through our relationships with other people*. For example, we first learn how to manage our fears and cravings (or not) from how our parents manage theirs (or don't) and how they relate to our emotions and behaviors. Those and other important relationships (however healthy or unhealthy) play big roles in determining the capacities and habits of our executive circuitry.
+Importantly, we develop – and can increase – these executive (circuitry) functions primarily *through our relationships with other people*. For example, we first learned how to manage our fears and cravings (or not) from how our parents managed theirs (or didn't) and how they related to our emotions and behaviors. Those and other important relationships (however healthy or unhealthy) have played big roles in determining the capacities and habits of our executive circuitry.
 
 Unfortunately, some traumatic experiences (especially in early childhood) and some intoxicating substances can harm the executive circuitry. Fortunately, because the human brain has an amazing capacity to rewire and heal, in most cases such damage is only temporary and/or can be overcome by compensatory brain adaptations.
 
-Most importantly, the brain's executive circuitry can be harnessed to bring healing and happiness. We can learn and practice skills for working with our attention; for observing, accepting and transforming our feelings, thoughts and impulses; and for cultivating healthy and fulfilling habits of thinking, feeling and behaving.
+Most importantly, the brain's executive circuitry can be harnessed to bring healing and happiness. We can learn and practice skills for working with our attention; for observing, accepting and transforming our feelings, thoughts and impulses; and for deliberately cultivating healthy and fulfilling habits of thinking, feeling, and behaving.
 
-We can learn to use our executive circuitry to access, harness and transform the other key circuitries of our brain, especially the seeking, satisfaction and embodiment circuitries.
+In short, we can learn to use our executive circuitry to access, harness and transform the other key circuitries of our brain, especially the seeking, satisfaction and embodiment circuitries.
 
 Such skills may be learned and strengthened in safe and healthy relationships, in therapy or counseling, and by engaging in practices of philosophical, religious and spiritual traditions, including various forms of meditation and contemplation.
 
 ## Keys to Understanding Our Suffering, Healing and Happiness
 
-Knowing these brain circuitries, and learning from direct (especially contemplative) experience how they shape our thoughts, emotions and behaviors – over the course of our lives, day to day, moment to moment – gives us powerful insight into how our brains work.
+Knowing these brain circuitries, and learning from direct (especially contemplative) experience how they shape our thoughts, emotions, and behaviors – over the course of our lives, day to day, moment to moment – gives us powerful insight into how our brains work.
 
-Although sages of the past could not teach their wisdom in terms of the brain, working with these key circuitries – to transform, heal and redeem suffering, and to seek and embody true goods and genuine happiness – has always been at the heart of humanity's great philosophical, religious, spiritual and contemplative traditions.
+Although sages of the past could not teach their wisdom in terms of the brain, working with these key circuitries – to heal and redeem suffering, and to seek and embody true goods and genuine happiness – has always been at the heart of humanity's great philosophical, religious, spiritual and contemplative traditions.
 
 Those are topics that I address on the next page,&nbsp;[Cycles of Suffering, Healing & Happiness](/the-brain/cycles/).
