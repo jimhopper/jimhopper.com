@@ -4,8 +4,8 @@ custom_title:
 order: 3
 subcollection:
 description:
-nexturl: /mindfulness-and-meditation/overview/
-nexttitle: 'Mindfulness &amp; Meditation'
+nexturl: /healing-resources/overview/
+nexttitle: 'Healing Resources'
 prevurl:
 prevtitle:
 published: true

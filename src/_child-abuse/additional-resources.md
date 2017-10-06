@@ -5,8 +5,8 @@ order: 13
 subcollection:
 hotlines_sidebar: true
 description:
-nexturl: 
-nexttitle:
+nexturl: /sexual-assault-and-the-brain/
+nexttitle: Sexual Assault & The Brain
 prevurl:
 prevtitle:
 published: true
