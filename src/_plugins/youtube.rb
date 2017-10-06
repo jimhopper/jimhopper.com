@@ -12,7 +12,7 @@
 #   </div>
 
 module Jekyll
-  class FacebookVideo < Liquid::Tag
+  class Youtube < Liquid::Tag
     @url = nil
 
     VIDEO_URL = /(\S+)/i
@@ -26,12 +26,14 @@ module Jekyll
     end
 
     def render(context)
-      source = "<div class=\"video-responsive\">"
-      source += "<iframe src=\"//www.facebook.com/plugins/video.php?href=#{@url}\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"false\"></iframe>"
+      source = "<div class=\"video\">"
+      source += "<figure>"
+      source += "<iframe width=\"640\" height=\"480\" src=\"//www.youtube.com/embed/#{@url}\" frameborder=\"0\" allowfullscreen></iframe>"
+      source += "</figure>"
       source += "</div>"
       source
     end
   end
 end
 
-Liquid::Template.register_tag('facebookvideo', Jekyll::FacebookVideo)
+Liquid::Template.register_tag('youtube', Jekyll::Youtube)
