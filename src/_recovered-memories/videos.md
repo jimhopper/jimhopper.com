@@ -9,7 +9,7 @@ nexturl: /child-abuse/recovered-memories/scientific-research
 nexttitle: Scientific Research on Recovered Memories
 prevurl: /child-abuse/recovered-memories/personal-questions
 prevtitle: Personal Questions About Recovered Memories
-published: false
+published: true
 og_image_path: /assets/images/header-abuse-small.jpg
 ---
 
@@ -26,5 +26,5 @@ If you've experienced recovered memories, see if these videos fit with your uniq
 
 The videos are best watched in order, because the first lays out key principles that are applied in the second. (Click the sound icon to hear my narration.)
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthekeepers%2Fvideos%2F812697038896022%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="false"</iframe>
+{% fbvideo https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthekeepers%2Fvideos%2F812697038896022%2F&show_text=0&width=560 %}
 
