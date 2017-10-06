@@ -27,3 +27,5 @@ If you've experienced recovered memories, see if these videos fit with your uniq
 The videos are best watched in order, because the first lays out key principles that are applied in the second. (Click the sound icon to hear my narration.)
 
 {% fbvideo https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthekeepers%2Fvideos%2F812697038896022%2F&amp;show_text=0&amp;width=560 %}
+
+{% fbvideo https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthekeepers%2Fvideos%2F845966958902363%2F&amp;show_text=0&amp;width=560 %}
