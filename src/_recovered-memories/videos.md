@@ -20,7 +20,7 @@ The show's seven remarkable episodes interweave several stories spanning decades
 
 2-minute videos can't do justice to the complexities of "how memory works" and how people come to lose access to memories and "recover" them years or even decades later. But these videos reflect memory and neuroscience research and decades of clinical experience consistent with this process:
 
-Soon after the abuse (or other traumatic event) some people engage in intentional memory suppression, just as we all push unwanted memories out of mind. This is eventually followed by a lack of retrieval that is so pervasive, automatic, and habitual that even upon encountering what we'd *think* are great "memory triggers" or "retrieval cues," there's still no recall. But at some point, perhaps years or decades later, one encounters just the right cues, in just the right context, to make just the right brain connections to finally retrieve pieces traumatic memory into awareness.
+Soon after the abuse (or other traumatic event) some people engage in intentional memory suppression, just as we all push unwanted memories out of mind. This is eventually followed by a lack of retrieval that is so pervasive, automatic, and habitual that even upon encountering what we'd *think* are great "memory triggers" or "retrieval cues," there's still no recall. But at some point, perhaps years or decades later, one encounters just the right cues, in just the right context, to make just the right brain connections to finally retrieve pieces of traumatic memory into awareness.
 
 If you've experienced recovered memories, see if these videos fit with your unique experience (or not) and feel free to let me know.
 
