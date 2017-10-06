@@ -22,6 +22,8 @@ The show's seven remarkable episodes interweave several stories spanning decades
 
 Soon after the abuse (or other traumatic event) some people engage in intentional memory suppression, just as we all push unwanted memories out of mind. This is eventually followed by a lack of retrieval that is so pervasive, automatic, and habitual that even upon encountering what we'd *think* are great "retrieval cues," there's still no recall. But at some point, perhaps years or decades later, one encounters just the right cues, in just the right context, to make just the right brain connections to finally retrieve pieces traumatic memory into awareness.
 
+{% facebookvideo https://www.facebook.com/thekeepers/videos/812697038896022 %}
+
 If you've experienced recovered memories, see if these videos fit with your unique experience - or not - and feel free to let me know.
 
 The videos are best watched in order, because the first lays out key principles that are applied in the second. (Click the sound icon to hear my narration.)
