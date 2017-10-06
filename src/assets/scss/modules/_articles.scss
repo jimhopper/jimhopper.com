@@ -105,7 +105,7 @@ body.topic {
   &.info .hero {
     background-image: url('/assets/images/header-abuse.jpg');
   }
-  &.healing-and-happiness .hero {
+  &.healing-resources .hero {
     background-image: url('/assets/images/header-happiness.jpg');
     @include media($s){
       background-position: center center;
@@ -120,13 +120,13 @@ body.topic {
       background-position: top right;
     }
   }
-  &.the-brain .hero {
+  &.brain-healing-and-happiness .hero {
     background-image: url('/assets/images/header-brain.jpg');
     @include media($m){
       background-position: center center;
     }
   }
-  &.sexual-assault .hero {
+  &.sexual-assault-and-the-brain .hero {
     background-image: url('/assets/images/header-sexual-assault.jpg');
     @include media($s){
       background-position: 100% 60%;

@@ -116,7 +116,7 @@ defaults:
       layout: default
   -
     scope:
-      path: "sexual-assault.html"
+      path: "sexual-assault-and-the-brain.html"
     values:
       layout: topic
       permalink: /sexual-assault-and-the-brain/
@@ -133,8 +133,8 @@ defaults:
       path: "repeat-rape-by-college-men.md"
     values:
       layout: topic
-      permalink: /sexual-assault/repeat-rape-by-college-men/
-      class: topic sexual-assault
+      permalink: /sexual-assault-and-the-brain/repeat-rape-by-college-men/
+      class: topic sexual-assault-and-the-brain
   -
     scope:
       path: "cms.md"

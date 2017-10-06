@@ -1310,10 +1310,10 @@ body.topic.child-abuse .hero, .home body.child-abuse.topic__full .hero, .home bo
 body.topic.info .hero, .home body.info.topic__full .hero, .home body.info.topic__half .hero {
   background-image: url("/assets/images/header-abuse.jpg"); }
 
-body.topic.healing-and-happiness .hero, .home body.healing-and-happiness.topic__full .hero, .home body.healing-and-happiness.topic__half .hero {
+body.topic.healing-resources .hero, .home body.healing-resources.topic__full .hero, .home body.healing-resources.topic__half .hero {
   background-image: url("/assets/images/header-happiness.jpg"); }
   @media screen and (min-width: 6.25em) {
-    body.topic.healing-and-happiness .hero, .home body.healing-and-happiness.topic__full .hero, .home body.healing-and-happiness.topic__half .hero {
+    body.topic.healing-resources .hero, .home body.healing-resources.topic__full .hero, .home body.healing-resources.topic__half .hero {
       background-position: center center; } }
 
 body.topic.mindfulness-and-meditation .hero, .home body.mindfulness-and-meditation.topic__full .hero, .home body.mindfulness-and-meditation.topic__half .hero {
@@ -1325,16 +1325,16 @@ body.topic.mindfulness-and-meditation .hero, .home body.mindfulness-and-meditati
     body.topic.mindfulness-and-meditation .hero, .home body.mindfulness-and-meditation.topic__full .hero, .home body.mindfulness-and-meditation.topic__half .hero {
       background-position: top right; } }
 
-body.topic.the-brain .hero, .home body.the-brain.topic__full .hero, .home body.the-brain.topic__half .hero {
+body.topic.brain-healing-and-happiness .hero, .home body.brain-healing-and-happiness.topic__full .hero, .home body.brain-healing-and-happiness.topic__half .hero {
   background-image: url("/assets/images/header-brain.jpg"); }
   @media screen and (min-width: 41.6875em) {
-    body.topic.the-brain .hero, .home body.the-brain.topic__full .hero, .home body.the-brain.topic__half .hero {
+    body.topic.brain-healing-and-happiness .hero, .home body.brain-healing-and-happiness.topic__full .hero, .home body.brain-healing-and-happiness.topic__half .hero {
       background-position: center center; } }
 
-body.topic.sexual-assault .hero, .home body.sexual-assault.topic__full .hero, .home body.sexual-assault.topic__half .hero {
+body.topic.sexual-assault-and-the-brain .hero, .home body.sexual-assault-and-the-brain.topic__full .hero, .home body.sexual-assault-and-the-brain.topic__half .hero {
   background-image: url("/assets/images/header-sexual-assault.jpg"); }
   @media screen and (min-width: 6.25em) {
-    body.topic.sexual-assault .hero, .home body.sexual-assault.topic__full .hero, .home body.sexual-assault.topic__half .hero {
+    body.topic.sexual-assault-and-the-brain .hero, .home body.sexual-assault-and-the-brain.topic__full .hero, .home body.sexual-assault-and-the-brain.topic__half .hero {
       background-position: 100% 60%; } }
 
 body.topic.about .hero, .home body.about.topic__full .hero, .home body.about.topic__half .hero {
@@ -1780,6 +1780,7 @@ header.navigation {
           header.navigation ul.submenu li a {
             background-color: #3b3d36;
             padding-left: 1.5rem;
+            padding-right: 1.5rem;
             text-align: left;
             border-left: 4px solid #3b3d36;
             white-space: nowrap; }
