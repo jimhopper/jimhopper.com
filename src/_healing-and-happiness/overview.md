@@ -1,6 +1,6 @@
 ---
 title: Overview
-custom_title: 'Healing & Happiness'
+custom_title: 'Healing Resources'
 order: 1
 subcollection:
 hotlines_sidebar: true

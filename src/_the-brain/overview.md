@@ -1,12 +1,12 @@
 ---
 title: Overview
-custom_title: The Brain
+custom_title: Brain, Healing & Happiness
 order: 1
 subcollection:
 description:
 nexturl:
 nexttitle:
-prevurl: /sexual-assault/
+prevurl: /sexual-assault-and-the-brain/
 prevtitle: Sexual Assault & the Brain
 published: true
 og_image_path: /assets/images/header-brain-small.jpg

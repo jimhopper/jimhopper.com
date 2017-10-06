@@ -22,15 +22,15 @@ collections:
   sexual-abuse-of-boys:
     output: true
     permalink: /child-abuse/sexual-abuse-of-boys/:title/
-  healing-and-happiness:
+  healing-resources:
     output: true
-    permalink: /healing-and-happiness/:title/
+    permalink: /healing-resources/:title/
   mindfulness-and-meditation:
     output: true
     permalink: mindfulness-and-meditation/:title/
-  the-brain:
+  brain-healing-and-happiness:
     output: true
-    permalink: /the-brain/:title/
+    permalink: /brain-healing-and-happiness/:title/
 
 defaults:
   -
@@ -45,12 +45,12 @@ defaults:
   -
     scope:
       path: ""
-      type: the-brain
+      type: brain-healing-and-happiness
     values:
-      topic: the-brain
-      topic_name: The Brain
+      topic: brain-healing-and-happiness
+      topic_name: Brain, Healing & Happiness
       layout: topic
-      class: topic the-brain
+      class: topic brain-healing-and-happiness
   -
     scope:
       path: ""
@@ -83,12 +83,12 @@ defaults:
   -
     scope:
       path: ""
-      type: healing-and-happiness
+      type: healing-resources
     values:
-      topic: healing-and-happiness
-      topic_name: Healing & Happiness
+      topic: healing-resources
+      topic_name: Healing Resources
       layout: topic
-      class: topic healing-and-happiness
+      class: topic healing-resources
   -
     scope:
       path: ""
@@ -119,8 +119,8 @@ defaults:
       path: "sexual-assault.html"
     values:
       layout: topic
-      permalink: /sexual-assault/
-      class: topic sexual-assault
+      permalink: /sexual-assault-and-the-brain/
+      class: topic sexual-assault-and-the-brain
   -
     scope:
       path: "kripalu.html"

@@ -6,8 +6,8 @@ subcollection:
 description:
 nexturl:
 nexttitle:
-prevurl: /the-brain/overview/
-prevtitle: The Brain
+prevurl: /brain-healing-and-happiness/overview/
+prevtitle: Brain, Healing & Happiness
 published: true
 og_image_path: /assets/images/header-brain-small.jpg
 ---

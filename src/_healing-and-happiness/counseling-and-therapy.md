@@ -7,7 +7,7 @@ hotlines_sidebar: true
 description:
 nexturl:
 nexttitle:
-prevurl: /healing-and-happiness/overview/
+prevurl: /healing-resources/overview/
 prevtitle: 'Healing & Happiness'
 published: true
 og_image_path: /assets/images/header-happiness-small.jpg
