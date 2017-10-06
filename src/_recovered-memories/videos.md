@@ -24,7 +24,7 @@ Soon after the abuse (or other traumatic event) some people engage in intentiona
 
 If you've experienced recovered memories, see if these videos fit with your unique experience (or not) and feel free to let me know.
 
-The videos are best watched in order, because the first lays out key principles that are applied in the second. (Click the sound icon to hear my narration.)
+The videos are best watched in order, because the first lays out key principles that are applied in the second. (To hear my narration click twice quickly, to start then pause, then use sound icon right of the progress bar.)
 
 {% facebookvideo https://www.facebook.com/thekeepers/videos/812697038896022 %}
 
