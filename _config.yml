@@ -123,6 +123,13 @@ defaults:
       class: topic sexual-assault
   -
     scope:
+      path: "kripalu.html"
+    values:
+      layout: topic
+      permalink: /services/kripalu/
+      class: topic mindfulness-and-meditation
+  -
+    scope:
       path: "repeat-rape-by-college-men.md"
     values:
       layout: topic
