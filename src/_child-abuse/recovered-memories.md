@@ -28,7 +28,7 @@ on this page
 
 As a clinical psychologist with expertise in psychological trauma, including due to child abuse and sexual assault, I have studied traumatic memories, including recovered memories of sexual abuse, for over 20 years.
 
-This section of my site has six pages: an overview and introduction (this page); a page that speaks directly to those with personal questions and concerns about their own memories; one with scientific and scholarly resources; one on how the media deals (mostly poorly) with this issue; and one with additional resources (e.g., books, websites, etc.).
+This section of my site has six pages: an overview and introduction (this page); a page with [two brief videos](/child-abuse/recovered-memories/videos/) I made for *Netflix;*&nbsp;a page that speaks directly to those with [personal questions and concerns](/child-abuse/recovered-memories/personal-questions/) about their own memories; one with [scientific and scholarly resources](/child-abuse/recovered-memories/scientific-research/); one on how [the media](/child-abuse/recovered-memories/in-the-media/) deals (mostly poorly) with this issue; and one with [additional resources](/child-abuse/recovered-memories/additional-resources/) (e.g., books, websites, etc.).
 
 ## Overview and Introduction
 
