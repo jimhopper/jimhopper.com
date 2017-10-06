@@ -26,11 +26,7 @@ module Jekyll
     end
 
     def render(context)
-      source = "<div class=\"video\">"
-      source += "<figure>"
-      source += "<iframe src=\"https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/thekeepers/videos/812697038896022/\" width=\"640\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"false\"></iframe>"
-      source += "</figure>"
-      source += "</div>"
+      source = "<iframe src=\"https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/thekeepers/videos/812697038896022/\" width=\"640\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"false\"></iframe>"
       source
     end
   end
