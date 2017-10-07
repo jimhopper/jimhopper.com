@@ -1,5 +1,5 @@
 ---
-title: 'Counseling &amp; Therapy'
+title: Counseling &amp; Therapy
 custom_title:
 order: 2
 subcollection:
@@ -8,7 +8,7 @@ description:
 nexturl:
 nexttitle:
 prevurl: /healing-resources/overview/
-prevtitle: 'Healing & Happiness'
+prevtitle: Healing Resources
 published: true
 og_image_path: /assets/images/header-happiness-small.jpg
 ---
@@ -46,7 +46,6 @@ Two other principles related to the therapist working to empower the client are 
 1. Neutrality. This means that the therapist does not take sides in clients’ inner conflicts (e.g., Should I leave or should stay? Do I trust her or not?), but helps clients identify and work through their mixed feelings and come to their own decisions and solutions. Often people expect therapists to give them advice or tell them what to do (which is consistent with the ‘medical model’ of therapy). But when therapists do so, it can take power away from clients, and prevent new learning and growth. Furthermore, if the client reacts negatively to being ‘told what to do’ – not an unusual response for someone who’s been dominated and manipulated by others in their life – this approach can even increase their attachment to unhealthy choices and behaviors.
 2. Disinterestedness. This means that the therapist does not use the client to meet his or her needs. This principle not only covers more extreme examples, like sexual exploitation of the client, but more subtle things like the therapist using the client to gratify needs to be admired, respected, etc. This also refers to the therapist not using the client to promote a personal agenda, for example, about how someone who has been abused ‘should’ relate to family members or the perpetrator. Of course, as Judith Herman points out, this is ‘an ideal to be striven for, never perfectly attained’ – since therapists are, after all, human beings with their own needs and motives for doing therapy, with personal biases and limitations, etc.
 
-
 ### Connection
 
 Disconnection is another core component of experience of unwanted or abusive experiences. Thus a therapist must be capable of connecting with her or his client, that is, capable of being present as a fellow human being with genuine relatedness and empathy.
@@ -74,9 +73,8 @@ But first, you should know about good web resources on how to choose and evaluat
 I strongly suggest reading these articles before seeking or contacting potential therapists in your area. For example, as these articles suggest, it is important to “interview” at least two or three potential therapists, rather than committing to the first one who seems to know what he or she is doing.
 
 * [Therapy for Post-Traumatic Stress and Dissociative Conditions: What to Look for and How to Choose a Therapist,](http://www.sidran.org/resources/for-survivors-and-loved-ones/how-to-choose-a-therapist-for-post-traumatic-stress-and-dissociative-conditions/?sro_p=1&amp;sro_q=166) by the Sidran foundation, has great information about the nature of helpful therapy, how to find potential therapists, and how to determine if one is right for you.
-* Dr. Richard Gartner’s website has [Helping Yourself Heal: Why Therapy?](http://www.richardgartner.com/BeyondBetrayal12.html)&nbsp;(chapter 12 of his book, [Beyond Betrayal](http://www.amazon.com/dp/0471619108/ref=nosim/?tag=1in6org-20)), which includes sections on locating, interviewing, and evaluating therapists.
+* Dr. Richard Gartner’s website has [Helping Yourself Heal: Why Therapy?](http://www.richardgartner.com/BeyondBetrayal12.html) (chapter 12 of his book, [Beyond Betrayal](http://www.amazon.com/dp/0471619108/ref=nosim/?tag=1in6org-20)), which includes sections on locating, interviewing, and evaluating therapists.
 * Click on “How to Choose a Therapist” at the website of [Dr. Patti Levin](http://www.drpattilevin.com/)
-
 
 The Sidran Foundation has an extensive list of therapists and clinics around the country that specialize in treating people with histories of mild to severe childhood adversities or abuse. See their page [About the Help Desk](http://www.sidran.org/help-desk/497-2/?sro_p=8&amp;sro_q=166). Again, neither I nor the Sidran Foundation can vouch for every therapist on the list, but they can usually, at a minimum, provide some good leads.
 
@@ -88,4 +86,4 @@ The [Therapist Resource Directory](http://www.abpsi.org/find-psychologists/) of 
 
 [The Consumer’s Guide to Psychotherapy](http://www.amazon.com/dp/067177851X/ref=nosim/?tag=jimhoppercom-20/), by Drs. Jack Engler and Dan Goleman (author of the best-selling Emotional Intelligence), is an excellent book available in paperback from Amazon, both new and used (some really cheap), and may be in your local library. Though it was published in 1992, and is not up to date on the latest treatment innovations, this book has a great deal of timeless wisdom about choosing a therapist, the nature of therapy, different schools of therapy, etc.
 
-For men with histories of unwanted or abusive sexual experiences in childhood,&nbsp;[MaleSurvivor](http://www.malesurvivor.org/) has an online [Resource Directory](http://discussion.malesurvivor.org/accept-resource-terms.php?page=resourcedirectory) for finding therapists. Neither I nor MaleSurvivor can evaluate or vouch for the competence of the therapists who list themselves with this resource, but this may be a good sources of leads. If you do contact someone from this directory, I recommend asking them if there’s *anyone else* (aside from themselves) that they’d recommend as experienced and competent at helping men with your concerns and needs. Depending on where they are, there may not be, but it’s important for you to have multiple options whenever possible.
+For men with histories of unwanted or abusive sexual experiences in childhood, [MaleSurvivor](http://www.malesurvivor.org/) has an online [Resource Directory](http://discussion.malesurvivor.org/accept-resource-terms.php?page=resourcedirectory) for finding therapists. Neither I nor MaleSurvivor can evaluate or vouch for the competence of the therapists who list themselves with this resource, but this may be a good sources of leads. If you do contact someone from this directory, I recommend asking them if there’s *anyone else* (aside from themselves) that they’d recommend as experienced and competent at helping men with your concerns and needs. Depending on where they are, there may not be, but it’s important for you to have multiple options whenever possible.
