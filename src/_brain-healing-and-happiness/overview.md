@@ -1,6 +1,6 @@
 ---
 title: Overview
-custom_title: Brain, Healing & Happiness
+custom_title: 'Brain, Healing & Happiness'
 order: 1
 subcollection:
 description:
@@ -49,4 +49,4 @@ I focus on a few *key brain circuitries*, and brain-based processes involving th
 
 I *don't* focus on how very stressful or traumatic experiences, or negative behaviors such as addictions, can "damage" the brain. The human brain's resilience, and its capacities for changing and healing, are both remarkable and influenced by many different factors. It's just not helpful to believe, especially based on someone else's sweeping claims, that healing and finding happiness can be prevented by past adversity or ways you've tried to cope.
 
-So let's begin by finding clarity in the brain's complexity, and explore the key circuitries and processes involved in healing and finding happiness.
+So let's begin by finding clarity in the brain's complexity, and explore the [key circuitries](/brain-healing-and-happiness/key-brain-circuitries/) and processes involved in healing and finding happiness.

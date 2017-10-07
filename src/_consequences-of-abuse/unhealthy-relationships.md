@@ -98,10 +98,9 @@ In fact, one of the most healing things about a good therapy relationship is the
 3. Explore the related memories, feelings, and beliefs about yourself, others and relationships, which finally enables you to…
 4. Discover and practice (and keep practicing) new and much healthier ways of relating, especially when your ‘buttons get pushed.’
 
-
 This is one of the main purposes of a therapy relationship, especially when the therapist includes ‘interpersonal’ or ‘psychodynamic’ approaches, or the [Internal Family Systems Model](http://www.selfleadership.org/).
 
-Many people have found that they can overcome old patterns much more quickly, and experience a lot less conflict and pain at work and at home, when they make use of therapy (with a good therapist who is a good match for them, see [Counseling and Therapy](/healing-and-happiness/counseling-and-therapy/)).
+Many people have found that they can overcome old patterns much more quickly, and experience a lot less conflict and pain at work and at home, when they make use of therapy (with a good therapist who is a good match for them, see [Counseling and Therapy](/healing-resources/counseling-and-therapy/)).
 
 Finally, please keep in mind that a variety of harmful childhood experiences can contribute to relationship challenges and troubles. These include not only unwanted or abusive sexual experiences or physical abuse, but also harsh disciplining by parents, harsh criticisms or emotional abuse, death of a parent or other close person, and other experiences of neglect or betrayal by important people in one’s life.
 
