@@ -1,5 +1,5 @@
 ---
-title: 'Self-regulation &amp; Addictions'
+title: Self-regulation &amp; Addictions
 custom_title:
 order: 4
 subtopic: Consequences of Abuse
@@ -61,7 +61,7 @@ First of all, harmful unwanted or abusive childhood experiences usually cause in
 
 This is especially true of emotions like fear, [shame](/child-abuse/consequences-of-abuse/shame/) and [guilt](/child-abuse/consequences-of-abuse/guilt/) – which can be overwhelming and make it hard to manage other emotions and challenges in life.
 
-Then, the ways we try to avoid or cope with our emotions, and the stresses of our lives, often end up causing new and bigger problems. (See [Cycles of Suffering, Healing & Happiness](/the-brain/cycles/).)
+Then, the ways we try to avoid or cope with our emotions, and the stresses of our lives, often end up causing new and bigger problems. (See [Cycles of Suffering, Healing & Happiness](/brain-healing-and-happiness/cycles/).)
 
 Angry and aggressive behavior, getting drunk or high, compulsively using porn or having sex – these are often attempts to avoid and escape feelings of helplessness, fears of rejection, and unfulfilled longings to be loved. They all involve problems with self-regulation.
 
@@ -83,7 +83,7 @@ And self-regulation problems can have a big impact on one’s current relationsh
 
 ## Deal With This Early, With As Much Hope, Help, and Patience As Possible
 
-These problems with self-regulation and addictions are usually a big focus in the ‘first stage of recovery,’ as described by Judith Herman’s [Stages of Recovery](/healing-and-happiness/stages-of-recovery/) model.
+These problems with self-regulation and addictions are usually a big focus in the ‘first stage of recovery,’ as described by Judith Herman’s [Stages of Recovery](/healing-resources/stages-of-recovery/) model.
 
 It really is best to start dealing with these problems as soon as possible because (as you know better than anyone else) they can cause so many problems and lots of suffering for you and other people in your life.
 
