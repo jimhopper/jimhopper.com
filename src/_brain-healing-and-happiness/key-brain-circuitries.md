@@ -7,7 +7,7 @@ description:
 nexturl:
 nexttitle:
 prevurl: /brain-healing-and-happiness/overview/
-prevtitle: Brain, Healing & Happiness
+prevtitle: 'Brain, Healing & Happiness'
 published: true
 og_image_path: /assets/images/header-brain-small.jpg
 ---
@@ -192,4 +192,4 @@ Knowing these brain circuitries, and learning from direct (especially contemplat
 
 Although sages of the past could not teach their wisdom in terms of the brain, working with these key circuitries – to heal and redeem suffering, and to seek and embody true goods and genuine happiness – has always been at the heart of humanity's great philosophical, religious, spiritual and contemplative traditions.
 
-Those are topics that I address on the next page,&nbsp;[Cycles of Suffering, Healing & Happiness](/the-brain/cycles/).
+Those are topics that I address on the next page,&nbsp;[Cycles of Suffering, Healing & Happiness](/brain-healing-and-happiness/cycles/).
