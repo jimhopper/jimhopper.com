@@ -32,7 +32,6 @@ Thanks to this myth, guys tend to find themselves in one of the two situations b
 * Suffering from negative effects, but not realizing what happened was harmful or that it’s related to current problems.
 * Aware the experience(s) were harmful, but too ashamed to seek help dealing it.
 
-
 Both predicaments are made worse by widespread ignorance in society – about the facts that such experiences are not rare for boys, that they can have lasting negative effects, and that men can overcome those effects *and* be manly at the same time.
 
 The all too common result: Increased odds that a man will get stuck with needless suffering and lost potential.
@@ -67,7 +66,7 @@ And it’s not just a matter of men rejecting such capacities.
 
 Even if a man *wants* be become aware of vulnerable feelings and deal with them in ways that bring mastery and the life he wants, it’s easier said than done. He must work against decades of ‘masculinity training’ and conditioning of his brain.
 
-Thankfully, the capacities that *everyone* has for dealing with vulnerable emotions can_always_ be cultivated. It’s never too late.
+Thankfully, the capacities that *everyone* has for dealing with vulnerable emotions can *always*&nbsp;be cultivated. It’s never too late.
 
 Any man, especially with some help, can learn to be aware of such feelings and to master them. Many men have already learned some of this, usually through friendships or intimate relationships with women.
 
