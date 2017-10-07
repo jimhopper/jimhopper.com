@@ -5,7 +5,7 @@ order: 3
 subcollection:
 description:
 nexturl: /healing-resources/overview/
-nexttitle: 'Healing Resources'
+nexttitle: Healing Resources
 prevurl:
 prevtitle:
 published: true
@@ -32,7 +32,7 @@ on this page
 
 Here I share a framework for understanding human suffering, healing and happiness in terms cycles of suffering and cycles of healing (and happiness) that entail particular relationships among key brain circuitries.
 
-I strongly recommend reading [Key Brain Circuitries](/the-brain/key-brain-circuitries/) first, because it provides the foundation for what I share here.
+I strongly recommend reading [Key Brain Circuitries](/brain-healing-and-happiness/key-brain-circuitries/) first, because it provides the foundation for what I share here.
 
 By 'cycle' I mean a set of experiences and actions that unfold repeatedly, in the same order, and typically in a self-perpetuating way. This will become very clear below.
 
@@ -40,8 +40,7 @@ I introduce and explain this framework in three steps.
 
 First, what I call fundamental 'cycles of suffering,' which involve relationships among key brain circuitries, are explained and briefly illustrated with examples.
 
-Second, I explain and illustrate what I call fundamental 'cycles of healing and happiness,' and roles of the key brain circuitries in those cycles.
-<br>This *circuitries and cycles*&nbsp;framework can be used to increase our understanding of all kinds of human suffering, including depression, anxiety, post-traumatic stress, addictions and various problems with regulating emotions and impulses.
+Second, I explain and illustrate what I call fundamental 'cycles of healing and happiness,' and roles of the key brain circuitries in those cycles.<br>This *circuitries and cycles*&nbsp;framework can be used to increase our understanding of all kinds of human suffering, including depression, anxiety, post-traumatic stress, addictions and various problems with regulating emotions and impulses.
 
 Third, I explain how the cycles and circuitries framework can be used to understand potential pathways to healing, including how therapy and contemplative practices can harness key brain circuitries to bring healing, freedom and happiness. I particularly focus on how the seeking, satisfaction and embodiment circuitries can be harnessed by contemplative practices – especially those that cultivate mindfulness, kindness, compassion and love – to transform suffering and bring genuine happiness.
 
