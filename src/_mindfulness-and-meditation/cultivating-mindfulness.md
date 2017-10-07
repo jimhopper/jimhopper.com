@@ -7,7 +7,7 @@ description:
 nexturl:
 nexttitle:
 prevurl:
-prevtitle: 'Mindfulness & Meditation'
+prevtitle: Mindfulness & Meditation
 published: true
 og_image_path: /assets/images/header-meditation-small.jpg
 ---
@@ -33,7 +33,6 @@ I’ve written this page for a variety of people, including:
 * Beginning meditators.
 * Meditators interested in the insights of a fellow meditator who has also been a therapist, psychological trauma and neuroscience researcher, husband and parent.
 * Therapists interested in bringing mindfulness and meditation into their clinical practices.
-
 
 Some will begin reading and find themselves thinking, "I can't see myself doing mindfulness meditation practices, so I might as well stop reading now and not bother coming back to this later."
 
@@ -69,19 +68,16 @@ Indeed, mindfulness is a skill that takes practice to cultivate and integrate in
 * Paying conscious attention can be especially hard when a current interaction reminds us of past hurts or betrayals – and before even realizing it, we can automatically and defensively respond as if those old experiences were happening again.
 * All of us have our habitual patterns, our vulnerabilities to automatic reactions based on past experiences of hurt, our 'buttons' that can get 'pushed.' This is particularly true when we are already stressed and/or in a hurry. Truly paying attention in our lives is a challenge for anyone.
 
-
 **'On purpose'**
 
 * It takes a conscious decision, and effort by one's mind and brain, to pay attention to what's happening in the present. In fact, such choices and efforts are required over and over again, since we are continually pulled back into habitual ways of processing information and responding to things.
 * Too often we're on 'auto pilot,' not even trying to pay attention to what's actually happening in the unique situations and interactions that make up our lives.
-
 
 **'In the present moment'**
 
 * Most of us, most of the time, are absorbed in memories of the past or visions and plans for the future.
 * For most people, it is rare to be aware, without some amount of distraction or multi-tasking, of what is actually occurring in the present moment.
 * Particularly when strong emotions arise, people often respond not to situations as they are, but to reactive perceptions and thoughts based on painful experiences in the past. In the most extreme instances, one may not be 'here' in the present, but 'back there,' reliving the past through responses to present situations.
-
 
 **'Non-judgmentally'**
 
@@ -93,14 +89,12 @@ Indeed, mindfulness is a skill that takes practice to cultivate and integrate in
 * But to bring this non-judgmental quality into our daily lives, consistently, even at very stressful times, this is something many of us can hardly imagine. Yet it is possible, by practicing mindfulness (and kindness and compassion).
 * And for those who are vulnerable to remembering and reliving painful experiences from the past, to strong waves of emotion, to intense self-criticism – the cultivation of non-judgmental mindfulness can bring tremendous relief and freedom from old patterns.
 
-
 ### What It's Not
 
 In addition to defining what mindfulness is, it's important to define *what it's not*. Here are two common misconceptions:
 
 1. Paying attention mindfully is not about detaching from your experience and failing to emotionally engage with your life. It does not cause apathy. It does not kill passion. In fact, mindfulness allows one to engage more fully with one's emotions and other experiences, rather than simply reacting to them with habitual patterns of avoidance or acting out.
 2. Non-judgmental awareness is not the same as passively accepting whatever happens, including harmful things. It does not mean failing to evaluate whether others' actions or your own are harmful, or failing to protect yourself from victimization, or failing to prevent yourself from causing harm. Quite the opposite: non-judgmental mindfulness enables one to respond to such situations from awareness and thoughtfulness rather than from habit, over-reaction, compulsion, addiction, etc.
-
 
 ## How Could Mindfulness Help Me?
 
@@ -186,7 +180,7 @@ If one doesn't notice or pay attention to one's emotions and they run on autopil
 
 Mindfulness helps people to notice these associations and triggerings as they occur, or at least before a chain of them results in overwhelming emotions or impulsive actions. That is, mindfulness can help you see and make connections between perceptions, thoughts, memories, emotions and impulses – connections that have always been there, but operating outside of your relatively limited awareness – in a way that prevents your mind and body from going out of control without you knowing why. In short, while you have no say over the initial conditioned responses that you have, once you're aware of them and not judging them, you can have a lot of influence over what happens next.
 
-In short, mindfulness can give rise to profound insight into the workings of our minds, especially processes and [cycles of suffering, healing and happiness](/the-brain/cycles).
+In short, mindfulness can give rise to profound insight into the workings of our minds, especially processes and [cycles of suffering, healing and happiness](/brain-healing-and-happiness/cycles/).
 
 ## How Can I Cultivate Mindfulness?
 
@@ -198,7 +192,6 @@ As with meditation, unless you have seriously studied Buddhism, you are likely t
 
 1. Buddhist ideas and practices related to mindfulness have been developed and refined within an extremely rigorous research tradition. This tradition is focused on transforming one's attention into a suitable tool for directly investigating the nature of mind and experience, with the goal of reducing and eliminating ignorance, confusion, and suffering – and increasing freedom and happiness. The focus on training and refining one's own mind is very different from the research traditions of Western science, which have developed powerful methods for studying other people's minds and brains. But the two approaches are absolutely compatible. Even more important, they are complementary – as increasing numbers of psychology and neuroscience researchers are discovering. (For example, the [Mind and Life Institute](http://www.mindandlife.org/) includes many leading neuroscientists, and some exemplary research is featured in the scholarly articles that I recommend under [Additional Resources](/mindfulness-and-meditation/additional-resources/).)
 2. Buddhist ideas and practices related to mindfulness are completely compatible with faith in or practice of any other religion, or atheism or agnosticism. They are tools for taming, understanding, and increasing the freedom of your own mind; therefore, they can increase your ability to live according to the principles of any religion, or any system of values and morals.
-
 
 ### A Mindfulness of Breathing Practice
 
@@ -213,7 +206,6 @@ As with meditation, unless you have seriously studied Buddhism, you are likely t
 7. Gently and without wavering, allow your attention to rest or float on the changing rhythms of your in-breaths and out-breaths. Whenever your attention wanders or loses its alertness – and it often will – gently but firmly bring your awareness back to the breath, and observe with fresh curiosity the sensations as they arise and pass away. It is totally natural for your mind to wander, and nothing to be concerned about. Again, when you notice that you mind has wandered, gently and firmly bring it back to the breath with fresh curiosity and alertness. If you find yourself judging yourself when you discover that your mind has wandered, instead briefly congratulate yourself for making the discovery – then go gently and firmly back to your breath…
 8. Continue with this practice for 15-20 minutes, or just 10 minutes or less if that feels like enough for the first time. During this time, sometimes when you find that your attention has wandered, you might remind yourself of your intention: simply to use your breath as an anchor for being mindfully aware of your experience in each moment. If at any time you find yourself becoming not just perturbed but overwhelmed by feelings or memories, immediately stop and do something (healthy) that you would normally do to cope with these experiences. Then read the section below, [Caution: Mindfulness Requires Readiness](#caution-mindfulness-requires-readiness).
 
-
 ### From Meditating to Its Benefits
 
 To understand how one gets from sitting and observing one's breath to the many benefits described in the previous section of this page, a few ideas and distinctions are helpful.
@@ -227,35 +219,29 @@ If you have read the previous section of this page, you have already encountered
 * For example, when attending to your breathing with bare attention, you just notice the sensations of breathing and nothing else. When this is occurring, many subtleties and nuances of breathing, and patterns in these, reveal themselves to you. Also, you are just noticing these sensations as they arise and pass away in the present moment – not thinking about them, not labeling them with language, not associating them with other sensations or patterns you may have experienced before, etc.
 * With practice, bare attention can be applied to all bodily and emotional responses, including those triggered by very painful or traumatic experiences. For example, a person might attend to the sensations in her chest, throat, and face that arise when someone raises their voice in anger and reminds her of a hurtful parent or step-parent. Focusing on emotions as bodily events while 'dropping the story' of verbal thoughts and remembered images and sounds, she can attend with bare attention to what is actually happening in her body now, in the present moment. This opens new opportunities for learning about her emotional and bodily responses, accepting these as conditioned reactions that arise and pass away, and responding to them in new ways.
 
-
 **Labeling:&nbsp;**Mentally applying a word or brief phrase to a particular content of experience.
 
 * Not all mindfulness meditation instructions include this practice, but many do. The idea is to help oneself simply notice something arising in your experience, without judgment, so that you can get back to observing the flow of experiences arising and passing away. This practice can also eliminate the control of particularly 'sticky' thoughts and feelings over one's attention.
 * For example, one might use the labels 'sadness' or 'anger' when these emotions arise; or 'planning,' 'worrying,' or 'remembering' when those common cognitive processes arise. More specific phrases can be used for other experiences, for example, 'remembering something painful' or 'fearing how others see me.' Some repetitive patterns of thought may be compared to 'tapes' playing in the mind, and labeled with phrases like, "there's the 'it's my fault' tape," "there's the 'I don't deserve this' tape," or "there's the 'he's such a jerk' tape."
-
 
 **Acceptance:&nbsp;**Accepting the *reality* of one's current experience.
 
 * This concept is addressed more fully in the section on [Kindness, Compassion & Love](/mindfulness-and-meditation/kindness-compassion-and-love/). Here, I will just make two points. First, accepting the reality of one's current experience is particularly important when it comes to potentially intense negative emotional responses. Once such emotional responses have arisen in one's current experience, neither mindlessly being carried away by them nor attempting to suppress them will be particularly helpful. Acceptance allows one to see them more clearly for what they are – unwanted and intense, but passing experiences – and choose how to respond to them, perhaps with acceptance and nothing more.
 * Second, accepting (rather than rejecting) what is happening in the current moment does not mean believing or 'accepting' that one can do nothing to prevent the situation from continuing or getting worse in the next moment. Nor does it mean accepting and allowing one's own automatic and habitual responses – no matter how compelling or 'justified' such responses may initially feel. Just the opposite: accepting the current moment enables you not to allow the external situation, or your internal reactions, to rob your capacity for freedom in the next moment.
 
-
 **Non-reactivity:&nbsp;**Responding to experiences, including emotions and impulses, without getting carried away by them or trying to suppress them.
 
 * All organisms, including human beings, are conditioned to react automatically to most of the experiences they have. We grasp at what we want and like, and push away what we don't want or like. Before we even know it, such conditioned responses to stimuli and emotions carry us away. Mindfulness involves the skill of non-reactively observing split-second conditioned reactions, which provides the option of not acting out the entire chain reaction that would normally follow. This non-reactivity opens up space for new observations, reflections, learning, and freedom. It also saves one from a lot of regrets later.
-
 
 **Curiosity:&nbsp;**An attitude of interest in learning about the nature of one's experience and mind.
 
 * Through mindfulness, this quality of mind can be brought to a much greater range of experience than we ordinarily do. When it comes to things we want, we tend to just go after them based on prior conditioning. When it comes to experiences that we don't want, including painful memories and emotions, we tend to just push them away and avoid them, again based on our conditioning. We tend to reserve curiosity for things and experiences that are new and at least somewhat positive. But with mindfulness, we can bring curiosity to the full range of our experience, and discover much that is new and enlightening. We can discover that experiences which would ordinarily just evoke automatic conditioned responses are opportunities to apply curiosity and learn a great deal about how our mind works, including how it can increase our suffering by imposing old conditioning on new situations – or increase our happiness when freed from such habits.
 * For example, it is possible to bring curiosity to the way a reminder of past betrayal by someone we loved triggers memories, which in turn trigger automatic responses like sadness, shame, or anger, and/or craving for alcohol, sex, or some other 'fix.' When such reactions are experienced with mindful curiosity, they can become opportunities for learning, for being gentle and kind toward oneself in the midst of such responses, and for discovering new ways of responding.
 
-
 **Patience:&nbsp;**Accepting a slow pace of change; bearing unwanted, difficult or painful experiences with calmness.
 
 * As soon as we attempt to follow the sensations of breathing without distraction, we discover just how out of control our minds are. Even after years of mindfulness meditation practice, most people will not have unbroken control over where their attention is directed for more than a few moments at a time. But experiencing this fact over and over again, and repeatedly observing – with acceptance, non-reactivity, and curiosity – that one's mind has wondered or been carried away in a chain reaction of conditioned thoughts and feelings, is a wonderful way to cultivate patience. And these experiences can translate to daily life, enabling us to become more patient with ourselves and others as we all continue to fall into habitual responses that increase our suffering.
 * Another meaning of 'patience' refers to calmly bearing unwanted, difficult or painful experiences. In the Buddhist tradition, the term 'equanimity' is often used. Mindfulness practice provides repeated opportunities to observe the arising of unwanted, difficult and painful experiences and one's habitual reactions to them. Again, as the observation of such experiences increasingly includes acceptance, non-reactivity and curiosity, one's patience grows and can be spread to other experiences in one's daily life.
-
 
 **Thoughts and feelings as events, not facts.**
 
@@ -265,7 +251,6 @@ If you have read the previous section of this page, you have already encountered
 * People who cultivate mindfulness are pleasantly surprised when they discover just how many thoughts and feelings that previously seemed so compelling, and seemed to absolutely require and justify habitual reactions, are much better understood and experienced as sources of information about mental habits which have actually been increasing their suffering. For example, consider an emotionally charged thought that often arises in the mind of someone who was deeply hurt as a child: "There must be something about *me*, something *wrong* with me that made him (or her) pick me to abuse." It is possible, with practice, for this person to recognize this thought as common and normal, and one that is likely to arise at times of self-doubt and depression. Then, instead of getting caught up with the thought, one can attend to the emotional needs – perhaps for support, help, and encouragement – that created fertile soil for that thought to arise in the first place.
 * Embracing such thoughts and beating up on oneself, or trying to push them away or argue with them in your mind, will tend to increase their grip on you. Viewing such thoughts as *events*, and as&nbsp;*sources of information* about your current state of mind and body, and what will be helpful to you in that state, opens up all kinds of healthy possibilities and options.
 
-
 **Attending to process vs. attending to content**
 
 * Most of the time, most of us are lost in the contents of what is running through our minds. Though fears, cravings and various emotions drive our thought processes, we tend to get lost in the specifics and details of our thoughts and memories. Mindfulness meditation teaches us how to observe the *processes* of our minds and how they work. For example, when we are experiencing a pain in our body, or a painful memory, we tend to focus on the content of the pain experience and relate to it as something solid and unchanging. When that happens, the pain or memory is experienced the same way we always experience it, with the same predictable results.
@@ -274,7 +259,6 @@ If you have read the previous section of this page, you have already encountered
 * Certainly there are times when attending to the contents of our experiences are necessary. However, it is often possible and quite helpful to alternate between attending to the contents and the processes of our experiences. And to the extent that we only attend to contents without awareness of process, we dig deeper holes of confusion and suffering.
 * Importantly, what enables us to attend to such processes, and do so in ways that bring learning and healing, are the qualities of mindfulness described above: bare attention, acceptance, non-reactivity, curiosity, and patience.
 * Repeatedly attending to the processes of one's mind in daily meditation practice, one can become more mindful and more skilled at noticing the processes of experiences in daily life – and choosing not to get lost in the contents of experiences. This creates many opportunities for insight and freedom. The transformative and healing power of this shift in how we attend to our experience really is amazing, though it does take practice and discipline. Most important, this is a skill that truly can only be experienced directly, and only hinted at with words and concepts like these.
-
 
 ### Daily Mindfulness Practice vs. Intensive Mindfulness Practice
 
@@ -303,7 +287,6 @@ Therefore, there are many practices designed to weave mindfulness and kindness i
 * There are many practices designed to transform experiences of negative emotions into opportunities to experience and cultivate mindfulness, lovingkindness and compassion. For example, in Kristin Neff's and Pema Chodron's books and audio resources (see [Additional Resources](/mindfulness-and-meditation/additional-resources)), they teach practices that work with imagination and breathing to transform experiences of sadness, helplessness or anger into experiences of empathy for yourself – and the millions of other people around the world who are experiencing that same feeling at that same moment. Maybe that sounds far-fetched right now. But with a foundation of mindfulness practice and a disciplined effort to remember such practices when you most need them, in your daily life and relationships, it really is possible to use unwanted and painful experiences to cultivate greater kindness toward yourself and others.
 * For some people, particularly some males, reading the above descriptions may result in the arising of conditioned thoughts like, 'What touchy-feely garbage!' or 'Come on, what am I supposed to do, just become a wimp who is nice and sends love to everyone?!' If this is true for you, consider this: If you want to be strong and powerful, then you might start by mastering your own attention, which these days is easily carried away by just about any distracting thought or emotion. To truly be strong and powerful, you can't have a mind that's out of control. To be strong and powerful, you need to free yourself from enslavement to conditioning and habitual reactions shaped by experiences in the past (especially ones where you felt weak and vulnerable). Mindfulness is about, among many other things, increasingly mastering your attention and freeing your mind, about being free to choose positive and constructive actions, no matter what anyone else has done or is trying to do to you. There is a lot more that could be said about the power of mindfulness and kindness, but it would be better for you to think about these things for yourself.
 
-
 ### On the Path to More Mindfulness and Its Benefits
 
 Many people have thoughts or concerns like the following:
@@ -312,7 +295,6 @@ Many people have thoughts or concerns like the following:
 * "I just don't see myself having the discipline or, considering where I live, finding the support and guidance I would need to really bring mindfulness into my daily life."
 * "I tried meditating for a while years ago, and it did calm me down and reduce my stress level somewhat. But that was about it, and pretty soon those effects wore off."
 * "Truly cultivating mindfulness would take years, and there's just no way I'll ever get that far, given everything I have to deal with in my life."
-
 
 These are very common, understandable, and legitimate concerns. I personally have struggled with each one and other similar issues over 30 years since first taking up mindfulness and other meditation practices, including months and even years with no formal practice at all. I'd like to offer a few reflections and suggestions that I believe could be helpful. They are based on my own experiences, as well as conversations with meditation teachers and fellow mindfulness meditators, and readings I've done.
 
@@ -351,7 +333,6 @@ The following techniques may help you to catch yourself in the midst of this and
 * Stop and ask yourself, quite directly, "Can I know, *absolutely*, that these thoughts are true?" If you can't answer 'yes' with certainty, then it's probably a story you're telling yourself.
 * When things aren't going well and you're in danger of escalating further, try asking yourself periodically, "Aside from the unwanted emotions I am experiencing, however unpleasant they are, am I otherwise OK right now?" This simple reality check can show that while you may not be feeling good, in that moment your mind is prolonging the suffering, or even creating additional misery.
 
-
 **However, this is where the caution comes in:** Only a solid foundation of self-regulation skills, and disciplined practice, will enable one to attend to emotional pain with a sustained mindfulness that does not bring escalation – as opposed to having one's attention grabbed, dragged, and swept away in escalating cycles of suffering.
 
 That is, for someone who (a) lacks skills for tolerating and regulating the intensity of painful feelings, and (b) typically copes by escaping or acting impulsively, practicing mindfulness can bring a flood of intolerable painful feelings into awareness. For some, it will be necessary to learn mindfulness practices in the context of a therapy relationship.
@@ -363,7 +344,6 @@ That is, for someone who (a) lacks skills for tolerating and regulating the inte
 * Tendencies to get 'lost in your own world' and withdraw from relating to others, or to not even bother trying to connect with others. In this case, mindfulness practices could possibly be 'co-opted' by strong habits of self-absorption and disconnection from others.
 * Tendencies to hear voices in one's head that sound like those of real other people, or to become convinced of ideas that are extremely unlikely or clearly untrue to other people. (As this can be a delicate topic for people with such experiences, and difficult to address in writing rather than thoughtful and respectful conversation, I will not write anything more.)
 
-
 Even if you have one or more of the tendencies or problems above, it is possible to practice mindfulness. But to be ready, you will need a foundation of [self-regulation skills](/healing-and-happiness/regulating-emotions/).
 
 Good therapists can help you improve your self-regulation skills. For people with histories of child abuse (an area of expertise for me), excellent self-help resources are available too. I highly recommend those below, and the first one is particularly helpful if you struggle with dissociation.
@@ -373,7 +353,6 @@ Good therapists can help you improve your self-regulation skills. For people wit
 * [Post-Traumatic Stress Disorder Sourcebook](http://www.amazon.com/dp/0737302658/ref=nosim/?tag=jimhoppercom-20/), by Glenn Schiraldi
 * Peter Levine's book [Waking the Tiger](http://www.amazon.com/dp/155643233X/ref=nosim/?tag=jimhoppercom-20/) and [Healing Trauma](http://www.amazon.com/dp/1564556948/ref=nosim/?tag=jimhoppercom-20/) audio tapes have some great exercises, including how to 'pendulate' or move back and forth between experiences of pain or fear and safety.
 
-
 **How does a mindfulness meditator learn to feel strong emotions and bodily sensations without getting overwhelmed or spacing out?**
 
 * First, choose an object of attention that can provide a 'base' and 'safe place' to come back to when experiences threaten to become overwhelming. People often choose their hands, feet, or the center of their belly as a comfortable or neutral place. For others the breath will work, or a comforting phrase, or an image or memory of a safe place or person. Practice gently bringing your attention back to this base whenever it becomes distracted or pulled along by something else.
@@ -381,7 +360,6 @@ Good therapists can help you improve your self-regulation skills. For people wit
 * Once you have achieved some skill at concentration, when a difficult emotion, sensation or memory arises during meditation, you can *choose* to 'touch up against it' in small increments. Briefly touch the pain with your attention, and then back off and return to your safe object of attention until you feel the strength and presence to touch the difficult experience again.
 * Other ways to back off include opening your eyes and focusing on something you can see, or switching to a lovingkindness or compassion practice (see [Kindness, Compassion & Love](/mindfulness-and-meditation/kindness-compassion-and-love/)).
 * Such gradual, tolerable and deliberate re-experiencing of painful feelings and memories can modulate their intensity and foster increasing confidence and mastery. It really is possible to relate to painful experiences and memories without trying to escape or becoming overwhelmed.
-
 
 For many people, it is necessary to work with a therapist and/or meditation teacher who is experienced at helping people deal with the four problems listed above. One therapy that can be very helpful is Dialectical Behavior Therapy (DBT). This treatment approach incorporates mindfulness into a comprehensive individual and group program designed to cultivate skills of emotion tolerance, emotion regulation and interpersonal effectiveness. (For more information on DBT, see below, Resources for Learning to Be More Mindful.)
 
@@ -399,7 +377,6 @@ I recommend that you do a little research: start with the resources below, then 
 2. To maintain a regular practice, most people will need regular contact with a meditation teacher and/or supportive group or community.
 3. You may need to learn some emotion-regulation and other skills first, so if you haven't yet, be sure to read [Caution: Mindfulness Requires Readiness](#caution-mindfulness-requires-readiness)&nbsp;(above).
 
-
 Here are four free or inexpensive options for getting started on your own. Please don't be discouraged, though, if you find that going it alone isn't working for you.
 
 * Mindfulness in Plain English, a book by Bhante Henepola Gunaratana, includes detailed instruction on how to meditate, and is available [free on the web](http://www.vipassana.com/meditation/mindfulness_in_plain_english.php) or from [Amazon.com](http://www.amazon.com/dp/0861713214/ref=nosim/?tag=jimhoppercom-20/).
@@ -407,12 +384,10 @@ Here are four free or inexpensive options for getting started on your own. Pleas
 * [Mindfulness Meditation Practice CDs and Tapes](http://www.mindfulnesstapes.com/), by Jon Kabat-Zinn.
 * [The Mindful Way through Depression: Freeing Yourself from Chronic Unhappiness](http://www.amazon.com/Mindful-Way-Through-Depression-Unhappiness/dp/1593851286/ref=nosim/?tag=jimhoppercom-20/) (book plus CD), by Mark Williams, John Teasdale, Zindal Segal, and Jon Kabat-Zinn; though focused on depression, this is a valuable resource for anyone struggling with a lot of sadness and suffering.
 
-
 Other options for developing a mindfulness meditation practice largely on your own, but more structured than the options above, are self-study courses available from Sharon Salzberg and Joseph Goldstein, two of the most respected meditation teachers in the West.
 
 * [Insight Meditation: An In-Depth Correspondence Course](http://www.amazon.com/dp/1564554341/ref=nosim/?tag=jimhoppercom-20/) includes an 88-page workbook and 18 hours of audiotaped instruction designed to help you establish and sustain a daily mindfulness meditation practice. There is also the option of receiving personalized instruction (via email) from an advanced meditation teacher.
 * The smaller (and less expensive) [Insight Meditation: A Step-By-Step Course on How to Meditate](http://www.amazon.com/dp/1564559068/ref=nosim/?tag=jimhoppercom-20/), includes a 240-page Insight Meditation workbook, two 70-minute CDs and twelve study cards.
-
 
 The Vipassana Fellowship offers a 90-day [online meditation course](http://www.vipassana.com/course/), taught by Andrew Quernmore, a meditation teacher in England.
 
