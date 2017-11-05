@@ -58,9 +58,9 @@ As shown graphically below, in that sample of typical college men, the percentag
 
 ![percentage of rapists who are repeat rapists](/uploads/repeat-rapist-percentage.png)
 
-A lower but still high percentage of repeat rapists (63%) was found in a study of less typical college men published in 2002 by [David Lisak and Paul Miller](http://www.davidlisak.com/wp-content/uploads/pdf/RepeatRapeinUndetectedRapists.pdf) (colleagues of mine, using data collected in part by me). That study’s approximately 1800 men were an average of 26 years old, part-time and full-time students, and all commuters who did not live on campus. (A very small number may have been university staff.)
+A lower but still high percentage of repeat rapists (63%) was found in [a study](www.davidlisak.com/wp-content/uploads/pdf/RepeatRapeinUndetectedRapists.pdf) of less typical college men published in 2002 by David Lisak and Paul Miller (colleagues of mine, using data collected in part by me). That study’s approximately 1800 men were an average of 26 years old, part-time and full-time students, and all commuters who did not live on campus. (A very small number may have been university staff.)
 
-In 2009 [Stephanie McWhorter and colleagues](http://www.ncbi.nlm.nih.gov/pubmed/19459400) published a study of more than 1100 mostly college-aged (20 on average) United States Navy recruits. Consistent with the two studies of college students, 71% of the rapists were repeat rapists.
+In 2009 Stephanie McWhorter and colleagues published [a study](/pdfs/McWhorter2009.pdf) of more than 1100 mostly college-aged (20 on average) United States Navy recruits. Consistent with the two studies of college students, 71% of the rapists were repeat rapists.
 
 Together these studies suggest that two-thirds or more of college rapists are repeat rapists and that, when it comes to perpetrating rape, men living on a college campus are not essentially different from older men commuting to college classes or college-aged men engaged in other pursuits.
 
