@@ -28,7 +28,7 @@ This page presents, in simple terms with links to scientific research, statistic
 
 It presents the available evidence on the percentage of college men who acknowledge committing rape on surveys; the percentage of rapists who are “repeat rapists,” or admit to raping more than once; the percentage of all rapes that are committed by repeat rapists; and the percentage of rapists who admit to perpetrating rape during more than one year of college.
 
-How is “rape” defined here, and for most research studies?&nbsp;*Completed or attempted vaginal, anal or oral sexual intercourse through the threat or actual use of force, or by incapacitating the victim with drugs or alcohol.*(Note: penetration can be with any body part or object, not just the penis.)
+How is “rape” defined here, and for most research studies?&nbsp;*Completed or attempted vaginal, anal or oral sexual intercourse through the threat or actual use of force, or because the victim is incapacitated by drugs or alcohol.&nbsp;*(Note: penetration can be with any body part or object, not just the penis.)
 
 Attempted rape is included not only because it is a crime, but because it can be very traumatic and harmful to victims. Thus almost all researchers include attempted rape in their studies and statistics.
 
