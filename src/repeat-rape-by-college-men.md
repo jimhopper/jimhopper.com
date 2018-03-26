@@ -28,7 +28,7 @@ This page presents, in simple terms with links to scientific research, statistic
 
 It presents the available evidence on the percentage of college men who acknowledge committing rape on surveys; the percentage of rapists who are “repeat rapists,” or admit to raping more than once; the percentage of all rapes that are committed by repeat rapists; and the percentage of rapists who admit to perpetrating rape during more than one year of college.
 
-How is “rape” defined here, and for most research studies?&nbsp;*Completed or attempted vaginal, anal or oral sexual intercourse through the threat or actual use of force, or by incapacitating the victim with drugs or alcohol.*(Note: penetration can be with any body part or object, not just the penis.)
+How is “rape” defined here, and for most research studies?&nbsp;*Completed or attempted vaginal, anal or oral sexual intercourse through the threat or actual use of force, or because the victim is incapacitated by drugs or alcohol.&nbsp;*(Note: penetration can be with any body part or object, not just the penis.)
 
 Attempted rape is included not only because it is a crime, but because it can be very traumatic and harmful to victims. Thus almost all researchers include attempted rape in their studies and statistics.
 
@@ -58,9 +58,9 @@ As shown graphically below, in that sample of typical college men, the percentag
 
 ![percentage of rapists who are repeat rapists](/uploads/repeat-rapist-percentage.png)
 
-A lower but still high percentage of repeat rapists (63%) was found in a study of less typical college men published in 2002 by [David Lisak and Paul Miller](http://www.davidlisak.com/wp-content/uploads/pdf/RepeatRapeinUndetectedRapists.pdf) (colleagues of mine, using data collected in part by me). That study’s approximately 1800 men were an average of 26 years old, part-time and full-time students, and all commuters who did not live on campus. (A very small number may have been university staff.)
+A lower but still high percentage of repeat rapists (63%) was found in [a study](www.davidlisak.com/wp-content/uploads/pdf/RepeatRapeinUndetectedRapists.pdf) of less typical college men published in 2002 by David Lisak and Paul Miller (colleagues of mine, using data collected in part by me). That study’s approximately 1800 men were an average of 26 years old, part-time and full-time students, and all commuters who did not live on campus. (A very small number may have been university staff.)
 
-In 2009 [Stephanie McWhorter and colleagues](http://www.ncbi.nlm.nih.gov/pubmed/19459400) published a study of more than 1100 mostly college-aged (20 on average) United States Navy recruits. Consistent with the two studies of college students, 71% of the rapists were repeat rapists.
+In 2009 Stephanie McWhorter and colleagues published [a study](/pdfs/McWhorter2009.pdf) of more than 1100 mostly college-aged (20 on average) United States Navy recruits. Consistent with the two studies of college students, 71% of the rapists were repeat rapists.
 
 Together these studies suggest that two-thirds or more of college rapists are repeat rapists and that, when it comes to perpetrating rape, men living on a college campus are not essentially different from older men commuting to college classes or college-aged men engaged in other pursuits.
 
@@ -86,7 +86,7 @@ In short, the only available data from a study of typical college men shows that
 
 (These statistics can be independently verified by any researcher who accesses the publicly available data, can conduct simple frequency analyses, gets to know the data and creates the appropriate variables [based on the dataset’s X_____ variables, e.g., XFORCESI]. My SPSS code is available [here](http://www.jimhopper.com/swartout/SPSS_Coding_Syntax_for_Simple_Frequency_Analyses.zip).)
 
-Again, those findings from a study of typical college men are mirrored by those from the [Lisak and Miller](http://www.davidlisak.com/wp-content/uploads/pdf/RepeatRapeinUndetectedRapists.pdf) and [McWhorter et al.](http://www.ncbi.nlm.nih.gov/pubmed/19459400) studies of older commuter students and Navy recruits. In those studies repeat rapists are 63% and 71% of the rapists, respectively, and the average number of rapes they report committing is around six (5.8 and 6.4). As shown below, the simple math dictates that, for these two studies, over 90% of all rapes that the men reported committing were perpetrated by the repeat rapists.
+Again, those findings from a study of typical college men are mirrored by those from the [Lisak and Miller](http://www.davidlisak.com/wp-content/uploads/pdf/RepeatRapeinUndetectedRapists.pdf) and [McWhorter et al.](/pdfs/McWhorter2009.pdf) studies of older commuter students and Navy recruits. In those studies repeat rapists are 63% and 71% of the rapists, respectively, and the average number of rapes they report committing is around six (5.8 and 6.4). As shown below, the simple math dictates that, for these two studies, over 90% of all rapes that the men reported committing were perpetrated by the repeat rapists.
 
 ![percentage of rapes committed by repeat rapists](/uploads/repeat-rape-percentage-2.png)
 
