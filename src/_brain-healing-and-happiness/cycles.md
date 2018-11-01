@@ -12,7 +12,6 @@ published: true
 og_image_path: /assets/images/header-brain-small.jpg
 ---
 
-
 on this page
 {: .onpage__header}
 
@@ -40,7 +39,7 @@ I introduce and explain this framework in three steps.
 
 First, what I call fundamental 'cycles of suffering,' which involve relationships among key brain circuitries, are explained and briefly illustrated with examples.
 
-Second, I explain and illustrate what I call fundamental 'cycles of healing and happiness,' and roles of the key brain circuitries in those cycles.<br>This *circuitries and cycles*&nbsp;framework can be used to increase our understanding of all kinds of human suffering, including depression, anxiety, post-traumatic stress, addictions and various problems with regulating emotions and impulses.
+Second, I explain and illustrate what I call fundamental 'cycles of healing and happiness,' and roles of the key brain circuitries in those cycles. This *circuitries and cycles*&nbsp;framework can be used to increase our understanding of all kinds of human suffering, including depression, anxiety, post-traumatic stress, addictions and various problems with regulating emotions and impulses.
 
 Third, I explain how the cycles and circuitries framework can be used to understand potential pathways to healing, including how therapy and contemplative practices can harness key brain circuitries to bring healing, freedom and happiness. I particularly focus on how the seeking, satisfaction and embodiment circuitries can be harnessed by contemplative practices – especially those that cultivate mindfulness, kindness, compassion and love – to transform suffering and bring genuine happiness.
 
