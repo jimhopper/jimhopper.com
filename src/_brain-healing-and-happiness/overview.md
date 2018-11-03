@@ -12,8 +12,7 @@ published: true
 og_image_path: /assets/images/header-brain-small.jpg
 ---
 
-
-I've studied the brain for more than 25 years - as a researcher, teacher, therapist, and meditator. Advances in research and especially technology have provided amazing windows into the brain, unlocking fresh insights into key brain circuitries and they work together.
+I've studied the brain for more than 25 years - as a researcher, teacher, therapist, and meditator. Advances in research and especially technology have provided amazing windows into the brain, unlocking fresh insights into key brain circuitries and how they work together.
 
 We can harness these discoveries to understand our own brains, what brings healing and happiness, and which concepts and practices are helpful in our everyday lives.
 
