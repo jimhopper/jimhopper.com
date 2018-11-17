@@ -13,7 +13,7 @@ published: true
 og_image_path: /assets/images/header-abuse-small.jpg
 ---
 
-Other writers and web sites provide lots of great information about how unwanted and abusive childhood experiences, especially sexual abuse, can negatively affect girls and the women they become. I do not attempt to duplicate their efforts here. (But see&nbsp;[Sexual Assault](/sexual-assault-and-the-brain/).)
+Other writers and web sites provide lots of great information about how unwanted and abusive childhood experiences, especially sexual abuse, can negatively affect girls and the women they become. I do not attempt to duplicate their efforts here. (But see&nbsp;[Sexual Assault & the Brain](/sexual-assault-and-the-brain/).)
 
 There are, however, two points that I'd like to make:
 
