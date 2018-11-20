@@ -13,7 +13,6 @@ published: true
 og_image_path: /assets/images/header-abuse-small.jpg
 ---
 
-
 on this page
 {: .onpage__header}
 
@@ -126,15 +125,15 @@ Self doubt comes in many forms and from many sources, and it’s a major stumbli
 
 Examples of self-doubt include:
 
-Maybe I’m just being paranoid. People who have experienced abuse or violence themselves are often highly attuned to the slightest hint of a harmful interaction. But that hyperawareness or hypervigilance can be a double-edged sword. For example, after repeatedly pointing out concerning behaviors to family members and others who don’t believe them and dismiss their concerns, some people come to doubt their own perceptions.
+*Maybe I’m just being paranoid.* People who have experienced abuse or violence themselves are often highly attuned to the slightest hint of a harmful interaction. But that hyperawareness or hypervigilance can be a double-edged sword. For example, after repeatedly pointing out concerning behaviors to family members and others who don’t believe them and dismiss their concerns, some people come to doubt their own perceptions.
 
 > Doubting valid feelings, thoughts, and perceptions
 
-What if I’m wrong? It’s none of my business. 'Mind your own business' is one of the earliest lessons many of us were taught. Most people are reluctant to accuse someone else – especially about something as charged as sexual abuse – unless they have solid proof. Fears of almost surely ruining a friendship or other relationship, and of possibly hurting an innocent person’s reputation over something that may not be true, often outweigh the intention to act protectively on a suspicion.
+*What if I’m wrong? It’s none of my business.* 'Mind your own business' is one of the earliest lessons many of us were taught. Most people are reluctant to accuse someone else – especially about something as charged as sexual abuse – unless they have solid proof. Fears of almost surely ruining a friendship or other relationship, and of possibly hurting an innocent person’s reputation over something that may not be true, often outweigh the intention to act protectively on a suspicion.
 
-What if I’m right? We could lose everything. Fears of the breakup of one’s family, of destructive intervention by child protective services, of shame, of losing one’s children, home or social standing – all of these stop some people from acting protectively. An imperfect child protection system and a criminal justice system that harshly punishes nearly all people who are convicted of sexual offenses (even children), often leads family members not to report someone they care about. Fear of devastating lifelong legal and other consequences are especially powerful when the person sexually misusing or abusing a child is another child or adolescent. (Adolescents and young children, almost always in response to being abused themselves, commit more than a third of all reported sexual abuse of children.)
+*What if I’m right?* We could lose everything. Fears of the breakup of one’s family, of destructive intervention by child protective services, of shame, of losing one’s children, home or social standing – all of these stop some people from acting protectively. An imperfect child protection system and a criminal justice system that harshly punishes nearly all people who are convicted of sexual offenses (even children), often leads family members not to report someone they care about. Fear of devastating lifelong legal and other consequences are especially powerful when the person sexually misusing or abusing a child is another child or adolescent. (Adolescents and young children, almost always in response to being abused themselves, commit more than a third of all reported sexual abuse of children.)
 
-Am I being a 'prude'? People who want to be open-minded about sexual matters sometimes distrust their own discomfort when they suspect sexually harmful behaviors. They wonder if they’re being prudish, or too proper. By focusing on their own feelings about sex, they sometimes miss real signals of harm or power imbalances that make consent impossible, and end up overlooking abusive or exploitive sexual behavior.
+*Am I being a 'prude'?* People who want to be open-minded about sexual matters sometimes distrust their own discomfort when they suspect sexually harmful behaviors. They wonder if they’re being prudish, or too proper. By focusing on their own feelings about sex, they sometimes miss real signals of harm or power imbalances that make consent impossible, and end up overlooking abusive or exploitive sexual behavior.
 
 ## Misunderstandings about how children respond to abuse, or even what abuse is.
 
