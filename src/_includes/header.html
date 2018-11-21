@@ -24,16 +24,3 @@
 
   </div>
 </header>
-<script>
-window.onscroll = function() {mainMenu()};
-var MainMenuBar = document.getElementById("main-menu");
-var sticky =  MainMenuBar.offsetTop;
-function mainMenu() {
-  if (window.pageYOffset >= sticky) {
-    MainMenuBar.classList.add("sticky_nav")
-  } else {
-     MainMenuBar.classList.remove("sticky_nav");
-  }
-}
-
-</script>
