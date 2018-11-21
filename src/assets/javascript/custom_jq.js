@@ -1,7 +1,4 @@
 
-
-
-
 // ********hotline ********
 
 $('#help_line .help_toggle').click(function(){
