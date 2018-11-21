@@ -1,11 +1,11 @@
-
-<div id="hotlines" class="sidebar hide">
-  <div class="sidebar__inner">
-    <p class="sidebar__header"><a href="">IMMEDIATE HELP &amp; SUPPORT</a></p>
-    <p class="sidebar__subheader">If you need immediate information you can call one of these 24-hour toll-free hotlines.</p>
-    <ul class="sidebar__items">
+<div id="help_line">
+<span class="help_toggle"><i id="f" class="fa fa-volume-control-phone"></i>Get Help</span>
+<div id="hots">
+    <p class="header_2"><a href="" id="hotline">IMMEDIATE HELP &amp; SUPPORT</a></p>
+    <p class="subheader_2">If you need immediate information you can call one of these 24-hour toll-free hotlines.</p>
+    <ul>
       {% for item in site.data.hotlines %}
-        <li class="hotline">{{item.name}}</li>
+        <li class="heads">{{item.name}}</li>
         <li class="number">{{item.number}}</li>
       {% endfor %}
     </ul>
