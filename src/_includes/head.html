@@ -33,6 +33,21 @@
  <script src='//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js'></script>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
        <link rel=stylesheet href=/assets/stylesheets/_custom.css>
+       
+       <script>
+window.onscroll = function() {mainMenu()};
+var MainMenuBar = document.getElementById("main-menu");
+var sticky =  MainMenuBar.offsetTop;
+function mainMenu() {
+  if (window.pageYOffset >= sticky) {
+    MainMenuBar.classList.add("sticky_nav")
+  } else {
+     MainMenuBar.classList.remove("sticky_nav");
+  }
+}
+
+</script>
+
  <!-- Icons -->
  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/images/touch/apple-touch-icon-144-precomposed.png">
  <link rel="shortcut icon" href="/assets/images/favicon.ico">
