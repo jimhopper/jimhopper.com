@@ -1,6 +1,6 @@
 {% if site[page.topic]  %}
 
-<div class="sidebar">
+<div id="sid" class="sidebar">
   <div class="sidebar__inner">
     <p class="sidebar__header">in this topic</p>
       <ul class="sidebar__items">
@@ -50,8 +50,4 @@
 
 {% if page.show_repeat_rape %}
   {% include repeat_rape.html %}
-{% endif %}
-
-{% if page.hotlines_sidebar == true %}
-  {% include hotlines.html %}
 {% endif %}
