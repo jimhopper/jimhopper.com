@@ -23,7 +23,11 @@ layout: default
   {% endif %}
   {% assign prev = item %}
 {% endfor %}
-<head> 
+
+<main>
+    <head> 
+  <script src='//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js'></script>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style> 
 
 
@@ -429,12 +433,6 @@ and (orientation : portrait) {
 #help_line {
     top: 37px;
 }
-/*when use clicked on */
-/*
-  .article h2, .article h3{
-          padding-top: 61px;
-  }
- */
 
 }
  /*end of Hotline css*/
@@ -445,7 +443,7 @@ and (orientation : portrait) {
       padding-top: 38px;
  }
 </style>
-<main>
+</head>
 
   {% if page.subtopic %}
      <section class="sub-nav">
