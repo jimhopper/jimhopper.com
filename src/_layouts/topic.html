@@ -49,9 +49,10 @@ layout: default
     <div class="container">
       <p class="sub-nav__header"><i class="fa fa-caret-right" aria-hidden="true"></i></i>Currently Reading:</p> <p class="sub-nav__copy">Topics&nbsp;&nbsp;>&nbsp;&nbsp;<a href="/{{ page.permalink }}">{{page.title}}</a></p>
     </div>
+
   </section>
   {% endif %}
-
+ <div id="n_m"></div>   <!-- *** function gotop page mobile *** -->
   <section class="hero">
     <div class="container">
       <div class="inner-wrapper">
@@ -63,35 +64,59 @@ layout: default
           <h1>{{page.title}}</h1>
         {% endif %}
       </div>
-    </div>
-  </section>
 
-  <section class="article">
+    </div>
+ <div id="gotop"></div>      <!-- *** function gotop page desktop *** -->
+  </section>
+{% if page.hotlines_sidebar == true %}
+  {% include hotlines.html %}
+{% endif %}
+
+<!--//got to top button-->
+<button onclick="sc_topFunction()" id="sc_button" title="Go to top"><i class="material-icons">arrow_upward</i></button>
+
+<section  class="article">
+<div id="mobile_sticky" class="mobile_nav_container">
+
+<!-- Top Navigation Menu -->
+<div id="mv" class="mobile_nav">
+  <a href="javascript:void(0);" onclick="mobileNav()"  class="active">In this topic....</a>
+  <div id="mobile_links" >
+      {% include mobile_menu.html %}
+
+  </div>
+  <a href="javascript:void(0);" class="icon" onclick="mobileNav()">Menu
+    <i id="f-icon" class="fa fa-chevron-down icon-3x" aria-hidden="true"></i>
+  </a>
+</div>
+
+</div>
+<!--end of moible menus-->
+
     <div class="container">
       <div class="copy">
+
         <div class="content-wrapper">
           {{ content }}
         </div>
+
         <div class="share">
           <!-- <a href="mailto:?subject={{page.topic}} | {{page.title}}"><i class="fa fa-envelope" aria-hidden="true"></i> email</a> -->
           <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}"><i class="fa fa-facebook" aria-hidden="true"></i> share</a>
           {% capture url %}http://{{site.url}}{{page.url}}{% endcapture %}
           {% if page.custom_title %}{% capture title %}{{page.custom_title}}{% endcapture %}{% else %}{% capture title %}{{page.title}}{% endcapture %}{% endif %}
           <a target="_blank" href="https://twitter.com/share?url={{url}}&text={{title | escape}}"><i class="fa fa-twitter" aria-hidden="true"></i> tweet</a>
-
-
-
-
-
         </div>
       </div>
       <div class="hide-s hide-m show-l">
+
         {% include sidebar.html %}
       </div>
 
     </div>
-  </section>
 
+
+  </section>
 
   <section class="suggested">
     <div class="container">
@@ -145,12 +170,4 @@ Previous</p>
     </div>
   </section>
 
-  <section class="mobile-sidebar show-s show-m hide-l">
-    <div class="container">
-        {% include sidebar.html %}
-    </div>
-  </section>
-
 </main>
-
-
