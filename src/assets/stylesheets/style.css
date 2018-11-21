@@ -2417,12 +2417,6 @@ li.heads{
     font-weight: 600!important;
 }
  @media (max-width: 1026px) {
-/*when use clicked on */
-/*
-  .article h2, .article h3{
-          padding-top: 60px;
-  }
- */
 
 }
 
@@ -2440,12 +2434,6 @@ and (orientation : portrait) {
     top: 140px;
 }
 
-/*when use clicked on */
-/*
-  .article h2, .article h3{
-          padding-top: 50px;
-  }
- */
 
 }
 
@@ -2458,12 +2446,6 @@ and (max-device-width : 1024px)  { #help_line .help_toggle {
 #help_line {
     top: 37px;
 }
-/*when use clicked on */
-/*
-  .article h2, .article h3{
-          padding-top: 50px;
-  }
- */
 
 }
 
@@ -2480,13 +2462,6 @@ and (orientation : landscape) {
     top: 37px;
 }
 
-   /*when use clicked on */
-/*
-  .article h2, .article h3{
-          padding-top: 50px;
-  }
- */
-
 }
 
 @media only screen
@@ -2500,24 +2475,14 @@ and (orientation : portrait) {
 #help_line {
     top: 37px;
 }
-/*when use clicked on */
-/*
-  .article h2, .article h3{
-          padding-top: 61px;
-  }
- */
+
 
 }
- /*end of Hotline css*/
+
  .clicked_1{
       padding-top: 50px;
  }
  .we{
       padding-top: 38px;
  }
-/*
-  .sidebar ul.sidebar__items li.current a:hover{
-    background-color: teal;
-    }
- */
-/*# sourceMappingURL=style.css.map */
+
