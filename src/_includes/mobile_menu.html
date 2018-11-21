@@ -1,0 +1,62 @@
+
+    {% if site[page.topic]  %}
+
+<style>ul.mob_m li.current a {
+    color: #689700!important;
+    font-weight: 700;
+     margin-bottom: 11px;
+}
+ul.mob_m li a {
+    color: #1f1f1e!important;
+    text-decoration: none!important;
+    border-bottom: 0 solid #9b9a89;
+}
+ul.mob_m ul.sub1 li a {
+    color: #171716 !important;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+
+ ul.mob_m li {
+    font-family: FranklinGothicURW-Boo;
+    line-height: 1.5;
+
+    padding-left: 0;
+    list-style-type: none;
+}
+
+ul.mob_m ul.sub1 li {
+    list-style-type: disc;
+}
+</style>
+
+  <ul class="mob_m">
+
+        {% assign sorted = site[page.topic] | sort: 'order' %}
+        {% assign sorted = sorted | where: "published", "true" %}
+        {% for doc in sorted %}
+        {% assign current = nil %}
+          {% if page.url contains doc.url %}
+              {% assign current = 'current' %}
+          {% endif %}
+        <li class="{{current}}"><a href="{{doc.url}}">{{doc.title}}</a>
+          {% if page.url contains doc.subcollection %}
+            <ul class="mob_m sub1">
+              {% assign sortedInfo = site[doc.subcollection] | sort: 'order' %}
+              {% for doc in sortedInfo %}
+              {% assign current = nil %}
+                {% if page.url contains doc.url %}
+                    {% assign current = 'current' %}
+                {% endif %}
+                <li class="{{current}}"><a href="{{doc.url}}">{{doc.title}}</a></li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+<!--  </div>-->
+<!--</div>-->
+
+{% endif %}
