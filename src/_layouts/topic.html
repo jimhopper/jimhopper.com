@@ -654,6 +654,15 @@ location.reload();
 
 });
 
+
+if($('#mobile_sticky').css('display') == 'block')
+{
+       $('#main-menu').removeClass('sticky_nav'); 
+}
+else{
+     $('#main-menu').addClass("sticky_nav"); 
+}
+
 //main sidebar animation up/down
     $(function() {
     var footer_offset = $(".suggested").offset(); //footer offset
@@ -665,7 +674,7 @@ location.reload();
                 if ($(window).scrollTop() > sidebar_offset.top) {
                     if(  $(window).scrollTop() < footer_position ) {
                     $("#sid").stop().animate({
-                        marginTop: $(window).scrollTop() - sidebar_offset.top + topPadding
+                        marginTop: $(window).scrollTop() - sidebar_offset.top + topPadding+100
                     });
 
                 }
