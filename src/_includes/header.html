@@ -24,3 +24,23 @@
 
   </div>
 </header>
+ <script src='//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js'></script>
+<style>.sticky_nav{
+  position: fixed;
+  top: 0;
+  width: 100%;
+}</style>
+<script>
+window.onscroll = function() {menu_sticky()};
+
+var mainmenu= document.getElementById("main-menu");
+
+var sticky = mainmenu.offsetTop;
+
+function menu_sticky() {
+  if (window.pageYOffset >= sticky) {
+    mainmenu.classList.add("sticky_nav")
+  } else {
+    mainmenu.classList.remove("sticky_nav");
+  }
+}</script>
