@@ -806,6 +806,10 @@ var mediaPorts1 = window.matchMedia("(max-device-width: 1200px)") //windows size
 viewPortsFunction1(mediaPorts1) // Call listener function at run time
 mediaPorts1.addListener(viewPortsFunction1)
 
+var hd = $("body").hasClass('sexual-assault-and-the-brain');
+if(hd == true){
+    $("mobile_nav").css("display", "none");
+}
 
 </script>
 </main>
