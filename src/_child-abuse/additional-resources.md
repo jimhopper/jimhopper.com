@@ -13,7 +13,6 @@ published: true
 og_image_path: /assets/images/header-abuse-small.jpg
 ---
 
-
 on this page
 {: .onpage__header}
 
@@ -70,7 +69,7 @@ There are numerous websites with content addressing child abuse and recovery iss
 
 If reading material on these issues may disturb or upset you, remember to take care of yourself, and that you can always come back to this page or any of the links below when you feel prepared.
 
-[1in6.org](http://www.1in6.org/)&nbsp;The mission of 1in6 is "to help men who have had unwanted or abusive sexual experiences in childhood live healthier, happier lives." Their website has many resources for the men they serve, and for people who care about them. (I was a founding board member, long-time adviser, and wrote most of the pages on the 1in6 website.)
+[1in6.org](http://www.1in6.org/)&nbsp;The mission of 1in6 is "to help men who have had unwanted or abusive sexual experiences live healthier, happier lives." Their website has many resources for the men they serve, and for people who care about them. (I was a founding board member, long-time adviser, and wrote most of the pages on the 1in6 website.)
 
 [Center for Sex Offender Management](http://www.csom.org/)&nbsp;is a Project of the U.S. Department of Justice's Office of Justice Programs. "Established in June 1997, the Center for Sex Offender Management's (CSOM) goal is to enhance public safety by preventing further victimization through improving the management of adult and juvenile sex offenders who are in the community." In addition to [Frequently Asked Questions](http://www.csom.org/faq/index.html), the site has a wealth of information, including [Myths and Facts About Sex Offenders](http://www.csom.org/pubs/mythsfacts.pdf)&nbsp;and [Recidivism of Sex Offenders](http://www.csom.org/pubs/recidsexof.pdf).
 
