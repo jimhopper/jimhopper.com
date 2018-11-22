@@ -21,3 +21,19 @@
   </section>
 </div>
 
+<script>// When the user scrolls the page, execute obileNav()
+window.onscroll = function() {menu_sticky()};
+
+// Get the navbar
+var mainmenu= document.getElementById("main-menu");
+
+// Get the offset position of the navbar
+var sticky = mainmenu.offsetTop;
+
+function menu_sticky() {
+  if (window.pageYOffset >= sticky) {
+    mainmenu.classList.add("sticky_nav")
+  } else {
+    mainmenu.classList.remove("sticky_nav");
+  }
+}</script>
