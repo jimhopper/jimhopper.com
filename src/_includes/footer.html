@@ -25,13 +25,11 @@
   top: 0;
   width: 100%;
 }</style>
-<script>// When the user scrolls the page, execute obileNav()
+<script>
 window.onscroll = function() {menu_sticky()};
 
-// Get the navbar
 var mainmenu= document.getElementById("main-menu");
 
-// Get the offset position of the navbar
 var sticky = mainmenu.offsetTop;
 
 function menu_sticky() {
