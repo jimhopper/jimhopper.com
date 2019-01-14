@@ -29,7 +29,7 @@ on this page
 
 ## Introduction
 
-Here I share a framework for understanding human suffering, healing and happiness in terms cycles of suffering and cycles of healing (and happiness) that entail particular relationships among key brain circuitries.
+Here I share a framework for understanding human cycles of suffering and cycles of healing and happiness that entail particular relationships among key brain circuitries.
 
 I strongly recommend reading [Key Brain Circuitries](/brain-healing-and-happiness/key-brain-circuitries/) first, because it provides the foundation for what I share here.
 
