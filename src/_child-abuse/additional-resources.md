@@ -115,6 +115,8 @@ If reading material on these issues may disturb or upset you, remember to take c
 
 [Survivors of Childhood Sexual Abuse - A Guide for Primary Care Providers](http://www.csacliniciansguide.net/)&nbsp;This is a great resource with sections addressing potential 'triggers' in medical procedures and doctor-patient interactions, as well as recommendations for how to manage patients responses most sensitively and effectively. It specifically addresses several areas of practice: Obstetrics & Gynecological Care; In Office PT or Physical Exams; Oral Exams; Ultrasounds & Mammograms; Counseling Substance Abuse Behaviors; Treating Depression & other Psychiatric Illnesses.
 
+[Teaching Trauma](http://www.teachtrauma.com/)&nbsp; This website by researcher, clinician, and professor Bethany Brand, Ph.D., provides lots of resources for teaching trauma to undergraduate and graduate students. There are sections on different types of trauma, controversial topics, classroom activities, and slide shows from leaders in the field.
+
 [The Trauma Center](http://www.traumacenter.org/), founded by Bessel van der Kolk, a leading expert in the field of traumatic stress studies, is a clinic affiliated with the Boston University School of Medicine. The site includes [publications and products](http://www.traumacenter.org/products/products_landing.php) from Dr. van der Kolk and his colleagues at the The Trauma Center.
 
 [Tips for Abuse Survivors and Their Dentists](http://www.dentalfearcentral.org/abuse_survivors.html)&nbsp;As indicated by its name, this page at [Dental Fear Central](http://www.dentalfearcentral.org/index.html) was written for abuse survivors and their dentists, and has some helpful advice on dealing with many of the issues and difficulties that can arise.
