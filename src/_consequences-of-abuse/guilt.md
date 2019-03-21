@@ -14,7 +14,6 @@ published: true
 og_image_path: /assets/images/header-abuse-small.jpg
 ---
 
-
 on this page
 {: .onpage__header}
 
@@ -52,11 +51,10 @@ For people who had harmful unwanted or abusive childhood experiences, there can 
 Especially when it comes to harmful childhood sexual experiences, but also for experiences of physical or emotional harm or abuse, it’s common to feel guilty about:
 
 * Not saying ‘no’ or physically resisting.
-* ‘Letting’ another person take advantage of one's vulnerability, including ignorance and curiosity of sex.
+* ‘Letting’ another person take advantage of one's vulnerability, including ignorance of and curiosity about sex.
 * Becoming sexually aroused or experiencing sexual pleasure, even when they didn’t want or like what was happening.
 * Having engaged in sexual activity with other children, even if due to manipulation or force by others.
 * Not protecting a brother, sister, friend, or other child from someone doing the same harmful sexual, physical and/or emotional things to them.
-
 
 ## Unfair, Extreme, and Harmful Guilt
 
@@ -84,12 +82,11 @@ Furthermore, such extreme and ‘irrational’ guilt may not be limited to how y
 
 There can be many reasons why such extreme and irrational guilt keeps coming up and doesn’t just go away, even when we understand that’s what it is.
 
-We won’t try to explain them all here, but will mention three common ones:
+I won’t try to explain them all here, but will mention three common ones:
 
 * Maybe parents, teachers, religious or other authorities repeatedly made you feel guilty for things that weren’t your fault.
 * Maybe when you did do things worth feeling some guilt about, you were made to feel *extremely* guilty, and led to believe that making amends was impossible.
 * Maybe you came to believe (without necessarily realizing it) that blaming yourself was better than believing that you had little or no control over what happened, and came to see ‘it’s my fault’ or ‘I have no control’ as the only two possibilities.
-
 
 ## Guilt Can Be Overcome
 
